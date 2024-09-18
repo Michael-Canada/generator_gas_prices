@@ -25,8 +25,8 @@ import input_reader
 
 GO_TO_GCLOUD = True
 
-ISO_name = "MISO"
-# ISO_name = 'SWPP'
+# ISO_name = "MISO"
+ISO_name = "SWPP"
 
 # CLOSEST_INTERESTING_GAS_HUB = 1600
 
@@ -349,6 +349,7 @@ hub_gas_prices = hub_gas_prices[
 NG_hub_loc_info = NG_hub_loc_info[
     NG_hub_loc_info.mv_symbol.isin(hub_gas_prices.price_symbol)
 ]
+NG_hub_loc_info.to_csv(f"NG_hub_loc_info.csv", index=False)
 
 hub_gas_prices_per_month = (
     hub_gas_prices.groupby(["month", "price_symbol"])

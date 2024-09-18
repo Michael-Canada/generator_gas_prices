@@ -1341,7 +1341,6 @@ plant_id,plant_name,latitude,longitude
 789.0,Orca,60.555889,-145.753
 789.0,Orca,60.555889,-145.753
 789.0,Orca,60.555889,-145.753
-789.0,Orca,60.555889,-145.753
 790.0,Gem State,43.420221,-112.1019
 791.0,Canyon,29.87056,-98.19473
 791.0,Canyon,29.87056,-98.19473
@@ -3160,8 +3159,6 @@ plant_id,plant_name,latitude,longitude
 2015.0,Truman,43.828415,-94.43691
 2015.0,Truman,43.828415,-94.43691
 2015.0,Truman,43.828415,-94.43691
-2018.0,Virginia,47.522428,-92.54095
-2018.0,Virginia,47.522428,-92.54095
 2020.0,Wells IC,43.74453,-93.72413
 2020.0,Wells IC,43.74453,-93.72413
 2020.0,Wells IC,43.74453,-93.72413
@@ -3516,9 +3513,6 @@ plant_id,plant_name,latitude,longitude
 2243.0,Don Henry,40.583155,-98.42006
 2244.0,North Denver,40.598839,-98.38863
 2244.0,North Denver,40.598839,-98.38863
-2248.0,Kimball,41.2382,-103.6667
-2248.0,Kimball,41.2382,-103.6667
-2248.0,Kimball,41.2382,-103.6667
 2248.0,Kimball,41.2382,-103.6667
 2248.0,Kimball,41.2382,-103.6667
 2248.0,Kimball,41.2382,-103.6667
@@ -4255,6 +4249,7 @@ plant_id,plant_name,latitude,longitude
 2783.0,Buxton,35.267222,-75.53472
 2783.0,Buxton,35.267222,-75.53472
 2783.0,Buxton,35.267222,-75.53472
+2790.0,R M Heskett,46.8669,-100.8836
 2790.0,R M Heskett,46.8669,-100.8836
 2801.0,Jamestown,46.905665,-98.66218
 2801.0,Jamestown,46.905665,-98.66218
@@ -6885,6 +6880,7 @@ plant_id,plant_name,latitude,longitude
 6566.0,Bethel,60.7897,-161.7878
 6566.0,Bethel,60.7897,-161.7878
 6566.0,Bethel,60.7897,-161.7878
+6566.0,Bethel,60.7897,-161.7878
 6567.0,Block Island,41.175556,-71.5711
 6567.0,Block Island,41.175556,-71.5711
 6567.0,Block Island,41.175556,-71.5711
@@ -7021,6 +7017,9 @@ plant_id,plant_name,latitude,longitude
 7018.0,Chanute 3,37.6376,-95.4704
 7018.0,Chanute 3,37.6376,-95.4704
 7018.0,Chanute 3,37.6376,-95.4704
+7028.0,Whitehead,40.1817,-111.6203
+7028.0,Whitehead,40.1817,-111.6203
+7028.0,Whitehead,40.1817,-111.6203
 7028.0,Whitehead,40.1817,-111.6203
 7028.0,Whitehead,40.1817,-111.6203
 7028.0,Whitehead,40.1817,-111.6203
@@ -10333,6 +10332,7 @@ plant_id,plant_name,latitude,longitude
 52149.0,West Point (PA),40.217963,-75.29882
 52149.0,West Point (PA),40.217963,-75.29882
 52149.0,West Point (PA),40.217963,-75.29882
+52149.0,West Point (PA),40.217963,-75.29882
 52151.0,Sylvamo Corporation Eastover Facility,33.8872,-80.6397
 52151.0,Sylvamo Corporation Eastover Facility,33.8872,-80.6397
 52152.0,International Paper Franklin Mill,36.6803,-76.9128
@@ -11492,9 +11492,6 @@ plant_id,plant_name,latitude,longitude
 54989.0,Pine Tree Acres,42.764456,-82.74709
 54995.0,Indiana Harbor E 5 AC Station,41.6844,-87.4214
 54996.0,Salton Sea Power Gen Co - Unit 4,33.157,-115.6386
-54998.0,Wheelabrator Portsmouth,36.8083,-76.3036
-54998.0,Wheelabrator Portsmouth,36.8083,-76.3036
-54998.0,Wheelabrator Portsmouth,36.8083,-76.3036
 55002.0,Murphy-Brown LLC,34.9944,-78.1583
 55002.0,Murphy-Brown LLC,34.9944,-78.1583
 55004.0,Thornwood High School,41.5839,-87.6047
@@ -12219,6 +12216,7 @@ plant_id,plant_name,latitude,longitude
 55337.0,Ironwood LLC,40.3509,-76.3658
 55337.0,Ironwood LLC,40.3509,-76.3658
 55337.0,Ironwood LLC,40.3509,-76.3658
+55339.0,Phoenix Wind Power LLC,33.916667,-116.55
 55340.0,Dell Power Station,35.8619,-90.0253
 55340.0,Dell Power Station,35.8619,-90.0253
 55340.0,Dell Power Station,35.8619,-90.0253
@@ -12718,6 +12716,7 @@ plant_id,plant_name,latitude,longitude
 55718.0,Dean,42.77412,-82.48203
 55718.0,Dean,42.77412,-82.48203
 55718.0,Dean,42.77412,-82.48203
+55719.0,Mountain View I & II,33.9211,-116.5642
 55733.0,Bennett Mountain,43.147153,-115.6666
 55734.0,Gray County Wind Energy,37.613256,-100.3782
 55736.0,Hanging Rock Energy Facility,38.5731,-82.7833
@@ -12798,6 +12797,8 @@ plant_id,plant_name,latitude,longitude
 55835.0,Rocky Mountain Energy Center,40.0908,-104.5953
 55835.0,Rocky Mountain Energy Center,40.0908,-104.5953
 55836.0,Island Street Peaking Plant,44.2761,-88.2658
+55841.0,Silverhawk,36.4078,-114.9606
+55841.0,Silverhawk,36.4078,-114.9606
 55841.0,Silverhawk,36.4078,-114.9606
 55841.0,Silverhawk,36.4078,-114.9606
 55841.0,Silverhawk,36.4078,-114.9606
@@ -14576,8 +14577,6 @@ plant_id,plant_name,latitude,longitude
 56993.0,MF Mesa Lane LLC,40.1483,-74.7772
 56994.0,Grand Meadow,43.7189,-92.705
 56995.0,Georgetown LFGTE,33.453611,-79.31611
-56996.0,Solar Photovoltaic Project #02,33.985244,-117.7008
-56996.0,Solar Photovoltaic Project #02,33.985244,-117.7008
 56997.0,Arrowrock Hydroelectric Project,43.595,-115.9233
 56997.0,Arrowrock Hydroelectric Project,43.595,-115.9233
 56998.0,Pueblo Airport Generating Station,38.320833,-104.5264
@@ -14654,6 +14653,7 @@ plant_id,plant_name,latitude,longitude
 57023.0,Waste Management Rolling Meadows LFGTE,39.174577,-95.73113
 57023.0,Waste Management Rolling Meadows LFGTE,39.174577,-95.73113
 57024.0,Waste Management Northern Oaks LFGTE,43.9906,-84.8003
+57025.0,Waste Management Eco Vista LFGTE,36.140849,-94.25971
 57026.0,Superior Landfill Gas Recovery,32.0303,-81.2722
 57026.0,Superior Landfill Gas Recovery,32.0303,-81.2722
 57026.0,Superior Landfill Gas Recovery,32.0303,-81.2722
@@ -14933,75 +14933,6 @@ plant_id,plant_name,latitude,longitude
 57216.0,Crayola Solar Project,40.760545,-75.23845
 57216.0,Crayola Solar Project,40.760545,-75.23845
 57216.0,Crayola Solar Project,40.760545,-75.23845
-57217.0,Solar Photovoltaic Project #03,34.094279,-117.4001
-57217.0,Solar Photovoltaic Project #03,34.094279,-117.4001
-57219.0,Solar Photovoltaic Project #05,34.086276,-117.2306
-57219.0,Solar Photovoltaic Project #05,34.086276,-117.2306
-57219.0,Solar Photovoltaic Project #05,34.086276,-117.2306
-57219.0,Solar Photovoltaic Project #05,34.086276,-117.2306
-57219.0,Solar Photovoltaic Project #05,34.086276,-117.2306
-57220.0,Solar Photovoltaic Project #06,34.041389,-117.5731
-57220.0,Solar Photovoltaic Project #06,34.041389,-117.5731
-57220.0,Solar Photovoltaic Project #06,34.041389,-117.5731
-57220.0,Solar Photovoltaic Project #06,34.041389,-117.5731
-57221.0,Solar Photovoltaic Project #07,34.086111,-117.2275
-57221.0,Solar Photovoltaic Project #07,34.086111,-117.2275
-57221.0,Solar Photovoltaic Project #07,34.086111,-117.2275
-57221.0,Solar Photovoltaic Project #07,34.086111,-117.2275
-57221.0,Solar Photovoltaic Project #07,34.086111,-117.2275
-57222.0,Solar Photovoltaic Project #08,34.041944,-117.565
-57222.0,Solar Photovoltaic Project #08,34.041944,-117.565
-57222.0,Solar Photovoltaic Project #08,34.041944,-117.565
-57222.0,Solar Photovoltaic Project #08,34.041944,-117.565
-57223.0,Solar Photovoltaic Project #09,34.042778,-117.5717
-57223.0,Solar Photovoltaic Project #09,34.042778,-117.5717
-57224.0,Solar Photovoltaic Project #10,34.075,-117.5169
-57224.0,Solar Photovoltaic Project #10,34.075,-117.5169
-57224.0,Solar Photovoltaic Project #10,34.075,-117.5169
-57225.0,Solar Photovoltaic Project #11,34.075833,-117.2414
-57225.0,Solar Photovoltaic Project #11,34.075833,-117.2414
-57225.0,Solar Photovoltaic Project #11,34.075833,-117.2414
-57225.0,Solar Photovoltaic Project #11,34.075833,-117.2414
-57225.0,Solar Photovoltaic Project #11,34.075833,-117.2414
-57225.0,Solar Photovoltaic Project #11,34.075833,-117.2414
-57225.0,Solar Photovoltaic Project #11,34.075833,-117.2414
-57226.0,Solar Photovoltaic Project #12,34.042222,-117.5617
-57227.0,Solar Photovoltaic Project #13,34.083499,-117.2356
-57227.0,Solar Photovoltaic Project #13,34.083499,-117.2356
-57227.0,Solar Photovoltaic Project #13,34.083499,-117.2356
-57227.0,Solar Photovoltaic Project #13,34.083499,-117.2356
-57227.0,Solar Photovoltaic Project #13,34.083499,-117.2356
-57227.0,Solar Photovoltaic Project #13,34.083499,-117.2356
-57227.0,Solar Photovoltaic Project #13,34.083499,-117.2356
-57229.0,Solar Photovoltaic Project #15,34.079167,-117.5167
-57229.0,Solar Photovoltaic Project #15,34.079167,-117.5167
-57229.0,Solar Photovoltaic Project #15,34.079167,-117.5167
-57229.0,Solar Photovoltaic Project #15,34.079167,-117.5167
-57229.0,Solar Photovoltaic Project #15,34.079167,-117.5167
-57229.0,Solar Photovoltaic Project #15,34.079167,-117.5167
-57229.0,Solar Photovoltaic Project #15,34.079167,-117.5167
-57230.0,Solar Photovoltaic Project #16,34.085556,-117.2336
-57230.0,Solar Photovoltaic Project #16,34.085556,-117.2336
-57230.0,Solar Photovoltaic Project #16,34.085556,-117.2336
-57231.0,Solar Photovoltaic Project #17,34.072778,-117.5033
-57231.0,Solar Photovoltaic Project #17,34.072778,-117.5033
-57231.0,Solar Photovoltaic Project #17,34.072778,-117.5033
-57231.0,Solar Photovoltaic Project #17,34.072778,-117.5033
-57231.0,Solar Photovoltaic Project #17,34.072778,-117.5033
-57231.0,Solar Photovoltaic Project #17,34.072778,-117.5033
-57231.0,Solar Photovoltaic Project #17,34.072778,-117.5033
-57232.0,Solar Photovoltaic Project #18,34.083333,-117.5164
-57232.0,Solar Photovoltaic Project #18,34.083333,-117.5164
-57232.0,Solar Photovoltaic Project #18,34.083333,-117.5164
-57236.0,Solar Photovoltaic Project #23,34.080833,-117.5203
-57236.0,Solar Photovoltaic Project #23,34.080833,-117.5203
-57236.0,Solar Photovoltaic Project #23,34.080833,-117.5203
-57236.0,Solar Photovoltaic Project #23,34.080833,-117.5203
-57236.0,Solar Photovoltaic Project #23,34.080833,-117.5203
-57237.0,Solar Photovoltaic Project #22,34.08,-117.2114
-57237.0,Solar Photovoltaic Project #22,34.08,-117.2114
-57237.0,Solar Photovoltaic Project #22,34.08,-117.2114
-57237.0,Solar Photovoltaic Project #22,34.08,-117.2114
 57239.0,Roth Rock Wind Farm LLC,39.254444,-79.46722
 57240.0,"Roth Rock North Wind Farm, LLC",39.287222,-79.43444
 57241.0,Deerhaven Renewable,29.7675,-82.39639
@@ -15009,29 +14940,6 @@ plant_id,plant_name,latitude,longitude
 57242.0,Mililani South Solar Farm,21.427916,-158.0199
 57243.0,Cimarron Solar Facility,36.468078,-104.6357
 57244.0,Kit Carson Windpower,39.3383,-102.3533
-57245.0,Solar Photovoltaic Project #26,34.131214,-117.4253
-57245.0,Solar Photovoltaic Project #26,34.131214,-117.4253
-57245.0,Solar Photovoltaic Project #26,34.131214,-117.4253
-57245.0,Solar Photovoltaic Project #26,34.131214,-117.4253
-57245.0,Solar Photovoltaic Project #26,34.131214,-117.4253
-57245.0,Solar Photovoltaic Project #26,34.131214,-117.4253
-57245.0,Solar Photovoltaic Project #26,34.131214,-117.4253
-57245.0,Solar Photovoltaic Project #26,34.131214,-117.4253
-57245.0,Solar Photovoltaic Project #26,34.131214,-117.4253
-57245.0,Solar Photovoltaic Project #26,34.131214,-117.4253
-57245.0,Solar Photovoltaic Project #26,34.131214,-117.4253
-57245.0,Solar Photovoltaic Project #26,34.131214,-117.4253
-57246.0,Solar Photovoltaic Project #27,34.131111,-117.4217
-57246.0,Solar Photovoltaic Project #27,34.131111,-117.4217
-57246.0,Solar Photovoltaic Project #27,34.131111,-117.4217
-57246.0,Solar Photovoltaic Project #27,34.131111,-117.4217
-57247.0,Solar Photovoltaic Project #28,34.094167,-117.2742
-57247.0,Solar Photovoltaic Project #28,34.094167,-117.2742
-57247.0,Solar Photovoltaic Project #28,34.094167,-117.2742
-57247.0,Solar Photovoltaic Project #28,34.094167,-117.2742
-57247.0,Solar Photovoltaic Project #28,34.094167,-117.2742
-57247.0,Solar Photovoltaic Project #28,34.094167,-117.2742
-57247.0,Solar Photovoltaic Project #28,34.094167,-117.2742
 57248.0,Welcome Wind Turbine,43.6825,-94.5892
 57249.0,Renewable Energy Services of Ohio,41.3362,-82.602
 57249.0,Renewable Energy Services of Ohio,41.3362,-82.602
@@ -15184,7 +15092,7 @@ plant_id,plant_name,latitude,longitude
 57366.0,"Terreva Wayne County RNG, LLC",35.2889,-78.0703
 57366.0,"Terreva Wayne County RNG, LLC",35.2889,-78.0703
 57367.0,Pocono Solar Project,41.061022,-75.51492
-57368.0,Solar of Alamosa,37.598579,-105.9558
+57368.0,Alamosa Solar,37.598579,-105.9558
 57369.0,Questa Solar Facility,36.716944,-105.6094
 57372.0,Bellevue Solar Project,45.112222,-123.2347
 57373.0,Agua Caliente Solar Project,32.9774,-113.4945
@@ -15391,12 +15299,6 @@ plant_id,plant_name,latitude,longitude
 57529.0,Kawailoa Wind,21.610278,-158.0408
 57530.0,Palouse,47.155833,-117.3644
 57531.0,Bingham Wind,45.103333,-69.76194
-57534.0,Solar Photovoltaic Project #32,34.031667,-117.5719
-57534.0,Solar Photovoltaic Project #32,34.031667,-117.5719
-57534.0,Solar Photovoltaic Project #32,34.031667,-117.5719
-57535.0,Solar Photovoltaic Project #33,34.0325,-117.5692
-57535.0,Solar Photovoltaic Project #33,34.0325,-117.5692
-57544.0,Cal State Univ San Bernardino FC01,34.185833,-117.3242
 57547.0,Winona County Wind LLC,44.1125,-91.92472
 57549.0,South Hurlburt Wind LLC,45.706262,-120.08
 57550.0,Horseshoe Bend Wind LLC,45.58555,-120.0082
@@ -15860,16 +15762,6 @@ plant_id,plant_name,latitude,longitude
 57899.0,Hurricane City Power,37.185556,-113.2975
 57899.0,Hurricane City Power,37.185556,-113.2975
 57899.0,Hurricane City Power,37.185556,-113.2975
-57900.0,Solar Photovoltaic Project #48,34.081111,-117.2281
-57900.0,Solar Photovoltaic Project #48,34.081111,-117.2281
-57900.0,Solar Photovoltaic Project #48,34.081111,-117.2281
-57900.0,Solar Photovoltaic Project #48,34.081111,-117.2281
-57900.0,Solar Photovoltaic Project #48,34.081111,-117.2281
-57900.0,Solar Photovoltaic Project #48,34.081111,-117.2281
-57900.0,Solar Photovoltaic Project #48,34.081111,-117.2281
-57900.0,Solar Photovoltaic Project #48,34.081111,-117.2281
-57900.0,Solar Photovoltaic Project #48,34.081111,-117.2281
-57900.0,Solar Photovoltaic Project #48,34.081111,-117.2281
 57901.0,El Segundo Energy Center LLC,33.910556,-118.425
 57901.0,El Segundo Energy Center LLC,33.910556,-118.425
 57901.0,El Segundo Energy Center LLC,33.910556,-118.425
@@ -16534,7 +16426,6 @@ plant_id,plant_name,latitude,longitude
 58362.0,Quittacas Pond Solar,41.781944,-70.91333
 58363.0,Majestic II Wind,35.386038,-101.5786
 58364.0,Tissington Solar,41.200278,-74.49194
-58365.0,CJTS Energy Center,41.552778,-72.625
 58366.0,Atwell Island,35.895,-119.5108
 58370.0,Gridley Main,39.373333,-121.6842
 58371.0,Gridley Main Two,39.373333,-121.6817
@@ -16600,6 +16491,8 @@ plant_id,plant_name,latitude,longitude
 58410.0,Marshfield PV,42.111667,-70.70944
 58411.0,Orange PV,42.585,-72.29389
 58412.0,Maynard PV,42.428333,-71.43556
+58413.0,Copper Crossing Energy and Research Center,33.15512,-111.4836
+58413.0,Copper Crossing Energy and Research Center,33.15512,-111.4836
 58414.0,NLMU Wind,40.955,-91.39444
 58416.0,Headwaters Wind Farm LLC,40.066667,-85.01333
 58417.0,Lone Valley Solar Park I LLC,34.398059,-116.8655
@@ -18919,7 +18812,6 @@ plant_id,plant_name,latitude,longitude
 60438.0,Whitakers Farm (Fisher Rd),36.115542,-77.72515
 60439.0,Sellers Farm Solar,34.881973,-79.66535
 60440.0,McGrigor Farm Solar,35.019771,-78.35009
-60441.0,Salem Smart Power Center,44.922,-123.0183
 60442.0,Carver MA 1 Community Solar,41.942796,-70.76114
 60443.0,Wareham MA 1 Community Solar,41.80167,-70.70463
 60444.0,Glacier Battery Storage,48.88804,-121.9462
@@ -19526,6 +19418,7 @@ plant_id,plant_name,latitude,longitude
 60966.0,Lind Solar CSG,44.802355,-93.90872
 60967.0,Onyx - Lamphear Road CSG,43.18413,-75.47672
 60968.0,Scott-II Solar LLC,37.526244,-77.94464
+60971.0,Michael Solar,45.667472,-94.70833
 60971.0,Michael Solar,45.667472,-94.70833
 60971.0,Michael Solar,45.667472,-94.70833
 60971.0,Michael Solar,45.667472,-94.70833
@@ -21408,7 +21301,6 @@ plant_id,plant_name,latitude,longitude
 62632.0,Cattle Ranch,27.321884,-81.80908
 62633.0,Twin Lakes,29.612188,-81.84453
 62634.0,Babcock Preserve,26.857879,-81.75965
-62636.0,NVSS-II,36.275051,-115.9723
 62637.0,Milford Solar Farm (NJ) LLC,40.614955,-75.15649
 62638.0,McCullough Road Solar Farm,40.757615,-74.95816
 62639.0,Manchester Community College East,41.763257,-72.55714
@@ -21769,7 +21661,7 @@ plant_id,plant_name,latitude,longitude
 62959.0,Whitehorn Solar,36.931378,-79.35874
 62960.0,Kimberly-Clark Solar,33.0,-85.034
 62961.0,Novel Brooten Solar CSG,45.512612,-95.11354
-62962.0,Novel Reber Solar CSG,45.61,-94.58
+62962.0,Novel Reber Solar CSG,45.62871,-94.5937
 62963.0,Novel Historical Society Solar CSG,44.787705,-95.36049
 62964.0,El Sol BESS,33.568,-112.3059
 62966.0,Novel Herber Solar CSG,44.106728,-91.88734
@@ -21800,7 +21692,7 @@ plant_id,plant_name,latitude,longitude
 62980.0,Turquoise Liberty Solar,39.59,-119.52
 62981.0,East Pulaski BESS,43.546613,-76.10403
 62982.0,Novel Schmoll Farms Solar CSG,43.97,-92.86
-62983.0,Novel Pederson Solar CSG,45.61,-94.06
+62983.0,Novel Pederson Solar CSG,45.62626,-94.0501
 62984.0,Novel Jewison Solar CSG,44.21,-93.66
 62985.0,Novel Byron Solar CSG,44.01,-92.62
 62986.0,Novel Kanewischer Solar CSG,44.05,-93.5
@@ -22066,7 +21958,7 @@ plant_id,plant_name,latitude,longitude
 63255.0,2W Permian Solar Project Hybrid,32.116388,-102.5283
 63256.0,Pembroke Lakes Mall,26.0106,-80.3046
 63257.0,Short Hills Mall,40.7397,-74.3642
-63258.0,Aurora Wind Project,48.5,-103.1
+63258.0,Aurora Wind Project,48.757,-103.252
 63259.0,Delta Energy Park,42.690644,-84.65778
 63259.0,Delta Energy Park,42.690644,-84.65778
 63259.0,Delta Energy Park,42.690644,-84.65778
@@ -22405,6 +22297,7 @@ plant_id,plant_name,latitude,longitude
 63556.0,"Boutillier Solar, LLC CSG",42.219,-71.891
 63557.0,"Blair Wire Village Solar, LLC CSG",42.259,-71.975
 63558.0,"Barton Acres Solar, LLC CSG",42.572,-72.164
+63559.0,MMWEC Simple Cycle Gas Turbine,42.54342,-70.92797
 63561.0,"Cherry Valley Solar, LLC CSG",42.229961,-71.89155
 63562.0,"ISM Solar Dighton 2, LLC CSG",41.816858,-71.16894
 63563.0,"Incom Solar, LLC CSG",42.107929,-72.01723
@@ -22475,7 +22368,6 @@ plant_id,plant_name,latitude,longitude
 63628.0,Tinker,35.414719,-97.37345
 63628.0,Tinker,35.414719,-97.37345
 63629.0,"Hydra Community Solar Garden, LLC (CSG)",44.416723,-93.21986
-63630.0,Pleasanton - Amador Valley High School,37.662431,-121.8747
 63632.0,Primient Loudon Plant,35.735092,-84.3193
 63632.0,Primient Loudon Plant,35.735092,-84.3193
 63635.0,Crown,34.648205,-80.71988
@@ -22691,10 +22583,10 @@ plant_id,plant_name,latitude,longitude
 63787.0,Pleasant Hill PV1,36.53115,-77.55038
 63789.0,East Nash PV2,35.955653,-78.09362
 63790.0,Illinois PV Fulton 1 CSG,40.698522,-89.96794
-63791.0,Sobania Community Solar LLC,45.42,-94.02
+63791.0,Sobania Community Solar LLC,45.423567,-94.0211
 63792.0,Svihel Community Solar LLC CSG,45.678,-93.919
 63793.0,Studenski Community Solar LLC CSG,45.63,-94.05
-63794.0,Stevens Community Solar LLC,45.662,-93.94
+63794.0,Stevens Community Solar LLC,45.661251,-93.94227
 63795.0,"Alkali Solar, LLC",43.31942,-121.0035
 63796.0,"West Hines Solar I, LLC",43.50259,-119.1471
 63797.0,Ellis Solar LLC,32.42,-97.02
@@ -23043,7 +22935,7 @@ plant_id,plant_name,latitude,longitude
 64169.0,Albemarle Beach Solar,35.928188,-76.62045
 64170.0,"BWC Muddy Brook, LLC Hybrid",42.0966,-71.5054
 64170.0,"BWC Muddy Brook, LLC Hybrid",42.0966,-71.5054
-64172.0,"Rockhaven Wind Project, LLC",34.475095,-97.36137
+64172.0,"Rockhaven Wind Project, LLC",34.39529,-97.29315
 64173.0,Lotus,36.13621,-79.53957
 64174.0,Big Boy,36.07767,-79.63377
 64175.0,Beth,35.975586,-79.61837
@@ -23567,7 +23459,7 @@ plant_id,plant_name,latitude,longitude
 64705.0,Fairhaven MA 2,41.666,-70.87831
 64706.0,Acushnet MA 1,41.697,-70.903
 64707.0,Acushnet MA 2 (CSG),41.70596,-70.88635
-64708.0,"Santee Solar Partners, LLC",45.546415,-93.59368
+64708.0,"Santee Solar Partners, LLC",45.4173,-93.3885
 64709.0,CL-Viaduct LLC,41.050201,-78.6519
 64710.0,White Mesa Wind,30.91,-101.263
 64711.0,UN-School House LLC,40.963184,-78.17915
@@ -24031,7 +23923,6 @@ plant_id,plant_name,latitude,longitude
 65001.0,Beaver Dam Solar,43.493942,-88.78389
 65002.0,SSI West Riverside Landfill LLC,33.980601,-117.3755
 65003.0,MN CSG 2019-16 LLC,44.214681,-93.96006
-65004.0,MN CSG 2019-17 LLC,,
 65005.0,Albertsons at Melrose Park,41.916874,-87.85621
 65007.0,Grant County,42.718978,-90.70104
 65008.0,Onion River,43.6002,-87.89659
@@ -24048,9 +23939,10 @@ plant_id,plant_name,latitude,longitude
 65026.0,HEB00292,28.982463,-95.95846
 65026.0,HEB00292,28.982463,-95.95846
 65027.0,Aero Solar Facility,39.03131,-84.65976
-65028.0,"Roseland Solar Project, LLC",31.459835,-96.82493
+65028.0,"Roseland Solar Project, LLC",31.461242,-96.82493
 65029.0,Bissell Solar and Battery Generator,43.007,-85.724
 65029.0,Bissell Solar and Battery Generator,43.007,-85.724
+65030.0,Oxbow Solar 1,30.667878,-91.39171
 65031.0,Bellflower Solar 1,39.786742,-85.41637
 65032.0,Sun Mountain Solar 1,38.180331,-104.5185
 65033.0,Kings River Syphon,36.764491,-119.4419
@@ -24110,9 +24002,6 @@ plant_id,plant_name,latitude,longitude
 65094.0,Jackson Legler Solar 1 LLC,40.06451,-74.35037
 65095.0,Mt Arlington Solar 1 LLC,40.93207,-74.62377
 65098.0,South Sioux City Energy Storage,42.433124,-96.4072
-65100.0,Eikmeier CSG,,
-65101.0,Hultman CSG,,
-65102.0,Lindgren 1 CSG,,
 65103.0,Jicarilla Solar 2,36.141053,-107.1712
 65104.0,CA - DGS RFP - RJ Donovan State Prison,35.582,-116.924
 65105.0,CA-DGS-California Correctional Inst,35.1135,-118.569
@@ -24124,7 +24013,6 @@ plant_id,plant_name,latitude,longitude
 65112.0,River Road,44.74111,-69.76286
 65114.0,196 Tremont St(CSG),41.842933,-70.7307
 65114.0,196 Tremont St(CSG),41.842933,-70.7307
-65115.0,Eichten 3 CSG,,
 65121.0,NY8 - Grissom Solar,42.973,-74.321
 65122.0,NY8 - Branscomb Solar,42.962972,-73.58674
 65123.0,NY8 - Janis Solar,42.453939,-75.93103
@@ -24154,6 +24042,7 @@ plant_id,plant_name,latitude,longitude
 65158.0,ASA Gouverneur NY Solar II LLC,44.360089,-75.42747
 65159.0,ASA Volney NY Solar I LLC,43.328217,-76.359
 65160.0,Lily Garden,44.07963,-93.5499
+65161.0,ASA Clayton NY Solar I LLC,44.161761,-76.10899
 65162.0,Lacy Creek Wind Energy Center,31.729906,-101.2989
 65163.0,Orioles Community Solar,42.426,-73.817
 65164.0,Grinnell College,41.76,-92.72
@@ -24307,6 +24196,7 @@ plant_id,plant_name,latitude,longitude
 65314.0,Caden Energix Wytheville LLC,36.964279,-81.04986
 65315.0,Gas City 2,40.478689,-85.55812
 65316.0,Sapphire Sky Wind Energy LLC,40.2945,-88.58455
+65317.0,Springfield Solar,38.093,-76.799
 65319.0,Maplewood Solar,36.89,-79.32
 65321.0,Rochambeau Solar,37.35,-76.76
 65322.0,Fort Powhatan Solar,37.26,-77.08
@@ -24648,6 +24538,7 @@ plant_id,plant_name,latitude,longitude
 65556.0,Seagrove,35.532427,-79.78763
 65559.0,Nolan,42.238649,-73.36162
 65560.0,Truck Stop,42.341063,-73.39668
+65561.0,South Fork Wind,41.09,-71.13
 65562.0,Amazon Bakersfield 1 Solar Project,35.446616,-119.0509
 65562.0,Amazon Bakersfield 1 Solar Project,35.446616,-119.0509
 65563.0,Robin NJ,40.19247,-74.56597
@@ -24966,7 +24857,6 @@ plant_id,plant_name,latitude,longitude
 65786.0,1639 RT 29 Solar 2,43.04296,-74.24935
 65790.0,Castle Gap Wind,31.39376,-98.35936
 65791.0,Blue Hen Solar,39.18568,-75.68538
-65792.0,MN CSG 2019-55 LLC,,
 65793.0,"Concho Valley Solar, LLC",31.214,-100.255
 65794.0,"20701 Plummer PV, LLC",34.243444,-118.5852
 65796.0,SV CSG Baileyville 1 LLC,42.201229,-89.60881
@@ -25178,7 +25068,11 @@ plant_id,plant_name,latitude,longitude
 66105.0,"Blue Elk II Solar, LLC",42.504888,-84.477
 66108.0,"Midcontinent Solar, LLC",42.970949,-84.158
 66109.0,"Greenstone Solar, LLC",41.942,-85.122
+66110.0,Babbitt Ranch Energy Center,35.627731,-111.8679
 66112.0,Newport Solar Project,35.668902,-91.18711
+66115.0,"HCE Amelia Solar I, LLC",37.45383,-77.95682
+66116.0,"HCE Amelia Solar II, LLC",37.481141,-77.96789
+66119.0,"HCE Powhatan Solar, LLC",37.52885,-77.95977
 66125.0,"West Line Solar, LLC",32.7559,-111.5548
 66126.0,Hecate Energy Albany 2 LLC,42.507913,-73.83651
 66128.0,Lake Mabel Solar,27.9788,-81.61015
@@ -25291,11 +25185,13 @@ plant_id,plant_name,latitude,longitude
 66261.0,Martin Marietta Wind Project,41.466,-83.367
 66261.0,Martin Marietta Wind Project,41.466,-83.367
 66261.0,Martin Marietta Wind Project,41.466,-83.367
+66262.0,Rowland Solar II,29.39,-95.78
 66263.0,Eleven Mile Solar Center,32.86097,-111.5919
 66263.0,Eleven Mile Solar Center,32.86097,-111.5919
 66265.0,Paradise Energy Storage,32.70363,-117.0498
 66266.0,Clairemont Energy Storage,32.825604,-117.1832
 66267.0,Steel Solar LLC,41.88605,-112.1817
+66270.0,Proxima,37.40035,-121.1628
 66270.0,Proxima,37.40035,-121.1628
 66271.0,Ameresco HCE Solar LLC,39.46647,-107.2348
 66271.0,Ameresco HCE Solar LLC,39.46647,-107.2348
@@ -25326,11 +25222,14 @@ plant_id,plant_name,latitude,longitude
 66324.0,BPL Files Solar,32.18398,-97.07141
 66331.0,Wonderful Firebaugh,36.835981,-120.3205
 66332.0,Wonderful Kings,35.769028,-119.8685
+66333.0,Superstition Energy Storage,33.35898,-111.8311
 66334.0,Sierra Estrella Energy Storage,33.410802,-112.3138
 66336.0,St. Gall Energy Storage I,30.924381,-102.9536
 66339.0,Brainerd Airport,46.39096,-94.14054
 66344.0,Bulloch County GA S4 LLC,32.388399,-81.82055
+66345.0,Elk Solar LLC,34.983948,-79.27671
 66346.0,Bulloch County GA S3 LLC,32.387793,-81.81603
+66349.0,Green Solar LLC (CSG),44.487289,-121.2497
 66350.0,Richmond County GA S2 LLC,33.318438,-82.08294
 66353.0,Upson County GA S1 LLC,32.93,-84.28
 66354.0,Sheridan Solar LLC (CSG),45.101889,-123.4092
@@ -25382,6 +25281,7 @@ plant_id,plant_name,latitude,longitude
 66417.0,Manheim New England,41.878118,-71.16354
 66418.0,Sonny Solar LLC,34.052037,-82.7222
 66419.0,Dane County Solar LLC,43.0466,-89.23931
+66420.0,Five Wells Solar Center - Hybrid,30.998647,-97.25902
 66420.0,Five Wells Solar Center - Hybrid,30.998647,-97.25902
 66422.0,Westside Solar,44.053575,-92.54849
 66422.0,Westside Solar,44.053575,-92.54849
@@ -25463,6 +25363,7 @@ plant_id,plant_name,latitude,longitude
 66490.0,Bullitt Farm Solar,43.19567,-75.26312
 66492.0,Henry Miller RD,37.0543,-120.6352
 66494.0,Menifee Power Bank,33.739005,-117.1698
+66494.0,Menifee Power Bank,33.739005,-117.1698
 66496.0,"Sweetland Wind Farm, LLC",44.386814,-98.80108
 66499.0,Federalsburg Energy Storage 1 LLC,38.64022,-75.71107
 66499.0,Federalsburg Energy Storage 1 LLC,38.64022,-75.71107
@@ -25495,7 +25396,6 @@ plant_id,plant_name,latitude,longitude
 66541.0,Chesapeake Solar Project,36.685103,-76.29661
 66542.0,Bulldog Solar LLC,33.371,-82.678
 66543.0,Cane Creek,31.976997,-88.88758
-66548.0,MN CSG 2019-54 LLC,,
 66549.0,HEB00063,29.55952,-95.39038
 66549.0,HEB00063,29.55952,-95.39038
 66549.0,HEB00063,29.55952,-95.39038
@@ -25691,13 +25591,16 @@ plant_id,plant_name,latitude,longitude
 66639.0,Falmouth Renewable Energy Center,30.203309,-83.85468
 66643.0,Dunn's Bridge 1 Solar,41.17257,-87.00726
 66645.0,ELP - Kipp,42.20193,-73.78298
+66650.0,Bear Canyon,38.762781,-122.6928
 66652.0,KDC Solar CV Ascend One LLC,39.31771,-76.98454
 66653.0,KDC Solar CV Cedar Lane Park LLC,39.314718,-76.97887
 66654.0,KDC Solar CV Central MD Regional Transit,39.31891,-77.97891
 66655.0,KDC Solar CV Animal Control LLC,39.314718,-76.97887
 66656.0,KDC Solar CV O'Donnell Property LLC,39.315392,-77.98022
+66666.0,Tumbleweed Energy Storage,34.83427,-118.339
 66667.0,City of Rosamond (CA),34.835677,-118.1468
 66668.0,Chickasaw Wind Farm,43.14014,-92.32443
+66669.0,West Ford Flat,38.788111,-122.7218
 66677.0,Visalia CSG LLC,36.30677,-119.24
 66680.0,Enchanted Rock Turlock Irrigation District,37.435853,-121.131
 66680.0,Enchanted Rock Turlock Irrigation District,37.435853,-121.131
@@ -25797,6 +25700,7 @@ plant_id,plant_name,latitude,longitude
 66823.0,Carthage B,43.990287,-75.66126
 66825.0,SR DeSoto III,31.868033,-84.00777
 66826.0,Prairie Creek Solar,39.806053,-90.22443
+66827.0,FFP - NY Burch,43.32265,-73.46798
 66829.0,FFP - NY Werner CSG,42.966063,-77.68387
 66832.0,Athens Ridge,44.917755,-69.67066
 66833.0,ME Novel Lighthouse - Huggard Ave Solar CSG,46.90965,-67.83835
@@ -25810,7 +25714,7 @@ plant_id,plant_name,latitude,longitude
 66856.0,NY Sorrell Hill II CSG,43.14672,-76.35467
 66863.0,Blackjack Solar,36.181538,-121.0267
 66866.0,North Fork Solar Project,34.61781,-98.98261
-66867.0,Cannonball Solar,39.5463,-77.4164
+66867.0,Cannonball Solar (CSG),39.5463,-77.4164
 66873.0,Gray Solar,43.58,-72.95304
 66875.0,Cenergy - Richards (CSG),44.643308,-69.60757
 66876.0,Cenergy - Waterville (CSG),44.538719,-69.66888
@@ -25825,6 +25729,7 @@ plant_id,plant_name,latitude,longitude
 66889.0,Solops 371 Hoes LLC,40.545856,-74.47386
 66889.0,Solops 371 Hoes LLC,40.545856,-74.47386
 66898.0,Fort Martin Solar,39.707825,-79.94884
+66902.0,Roadrunner Wind Farm,32.437418,-99.10891
 66906.0,Hammonton-High School Solar,39.657218,-74.80896
 66907.0,Barefoot Solar,44.595751,-69.60503
 66925.0,SR McNeal,31.5551,-109.7013
@@ -25845,9 +25750,10 @@ plant_id,plant_name,latitude,longitude
 66943.0,Pine 1 Solar,40.61655,-80.45815
 66944.0,Pine 2 Solar,40.61575,-80.471
 66945.0,East Victory Way Solar,40.51313,-107.5018
+66946.0,"Lockhart ESS, LLC",35.032461,-117.3567
 66954.0,Umbriel Solar,30.668754,-94.78347
+66955.0,Three Corners Solar,44.612621,-69.45182
 66956.0,Pittsfield Solar (N. Main St),44.782085,-69.36242
-66962.0,ME Novel Lighthouse - Carrabassett,45.101453,-70.34123
 66963.0,Franklin Solar 1 LLC Community Solar,40.525967,-74.55914
 66964.0,Franklin Solar 2 LLC Community Solar,40.480841,-74.49472
 66965.0,Mayhill Solar LLC Community Solar,40.90192,-74.09369
@@ -25889,6 +25795,7 @@ plant_id,plant_name,latitude,longitude
 67028.0,Randolf Solar,38.745097,-78.67523
 67030.0,Elkhorn Dairy,36.47229,-119.3467
 67032.0,15 Glen Harris RD,44.665,-69.986
+67045.0,NY Avon I CSG,42.9002,-77.7295
 67050.0,Elizabeth Seaport Bldg A Solar,40.662,-74.167
 67051.0,Sunflower Solar LLC,33.730956,-79.82786
 67052.0,Whitehall Solar LLC,34.039056,-79.91666
@@ -25920,9 +25827,14 @@ plant_id,plant_name,latitude,longitude
 67091.0,Yellow Pine II,36.075505,-115.7913
 67091.0,Yellow Pine II,36.075505,-115.7913
 67091.0,Yellow Pine II,36.075505,-115.7913
+67091.0,Yellow Pine II,36.075505,-115.7913
+67092.0,Paulsell,37.374065,-121.1352
+67092.0,Paulsell,37.374065,-121.1352
 67093.0,Mojave 16/17/18 BESS,35.044166,-118.2756
 67096.0,Fareway Customer Hosted 1 MW Solar,42.063182,-93.85664
+67097.0,Hy-Vee Customer Hosted 2.25MW Solar,41.035595,-93.33099
 67098.0,ISU Customer Hosted 1MW Solar Project,41.979194,-93.65625
+67099.0,Perry Customer Hosted 1MW Solar Project,41.843474,-94.12034
 67100.0,"Byrne Solar, LLC",43.044306,-85.39025
 67101.0,"Lightfoot Solar, LLC",44.636472,-84.17142
 67102.0,"Shipsterns Solar, LLC",42.299566,-84.75698
@@ -25931,8 +25843,8 @@ plant_id,plant_name,latitude,longitude
 67111.0,Corkwood Solar (CSG),45.258078,-68.66646
 67116.0,"GD West Greenwich Nooseneck I, LLC",41.606,-71.647
 67116.0,"GD West Greenwich Nooseneck I, LLC",41.606,-71.647
-67117.0,"Rhode Island Solar Renewable Energy IV,",41.613,-71.156
-67117.0,"Rhode Island Solar Renewable Energy IV,",41.613,-71.156
+67117.0,"Rhode Island Solar Renewable Energy IV, LLC",41.613,-71.156
+67117.0,"Rhode Island Solar Renewable Energy IV, LLC",41.613,-71.156
 67121.0,Bay Avenue CDG,40.679815,-74.16546
 67122.0,BRIGHT Battery,40.871407,-96.17904
 67137.0,Great Cove Solar II,39.9016,-77.8682
@@ -26028,6 +25940,7 @@ plant_id,plant_name,latitude,longitude
 67303.0,Mead Battery Storage,40.219394,-104.9422
 67305.0,Bromley Battery Storage,39.978775,-104.7687
 67306.0,Keenesburg Battery Storage,40.146214,-104.5487
+67307.0,Platte Valley Battery Storage,39.988332,-104.8451
 67308.0,AbbVie Waco,31.48819,-97.20061
 67308.0,AbbVie Waco,31.48819,-97.20061
 67308.0,AbbVie Waco,31.48819,-97.20061
@@ -26124,7 +26037,6 @@ plant_id,plant_name,latitude,longitude
 67349.0,ME-EDFR-Phase I-Woolwich,43.93795,-69.78418
 67350.0,ME-EDFR-Phase I-Embden,44.949,-69.87913
 67351.0,Park Solar,41.3367,-72.9868
-67355.0,Exeter Bulk Plant Array,36.30567,-119.1728
 67365.0,"CTMW Solar, LLC",35.0009,-118.8983
 67366.0,Caterpillar Hill,44.3123,-68.6586
 67367.0,"Freetown MA 1, LLC",41.760554,-70.96785
@@ -26159,10 +26071,14 @@ plant_id,plant_name,latitude,longitude
 67401.0,"Rutgers Busch Liv (Lot 55, 58, 58A, 58B)",40.524806,-74.46719
 67402.0,Mainely Solar (Wyman Hill Solar LLC),44.517714,-70.51785
 67404.0,Bear One,39.70285,-78.08261
+67407.0,Clemons Road Solar,43.063039,-76.01097
+67408.0,Pike Road Solar (NY),42.96881,-78.21004
+67409.0,Alexander Road Solar,42.973941,-78.20607
 67419.0,CSWIND America Inc.,38.169473,-104.619
 67420.0,Cavalier Solar,37.018,-76.7358
 67422.0,Powder Hill,41.976084,-72.53382
 67423.0,Platt Hill,41.900096,-73.10705
+67425.0,"Century Oak Wind Project, LLC",32.428686,-99.15911
 67430.0,Lannon Stone,43.106984,-88.22734
 67432.0,Double J Dairy Array,36.362673,-119.426
 67433.0,HEB00794,33.175806,-96.72842
@@ -26173,7 +26089,7 @@ plant_id,plant_name,latitude,longitude
 67434.0,HEB00767,30.221151,-95.68197
 67438.0,Oakland,44.57221,-69.6917
 67439.0,Parker Place,38.3228,-75.5431
-67440.0,Peterboro,43.070743,-75.54529
+67440.0,Peterboro (CSG),43.070743,-75.54529
 67441.0,Pivot Solar 9,39.72736,-104.7695
 67446.0,Pivot Solar 10,39.72883,-104.7706
 67448.0,Quarry,43.33777,-70.73331
@@ -26213,6 +26129,7 @@ plant_id,plant_name,latitude,longitude
 67485.0,Union Sanitary District Cogen,37.589632,-122.0907
 67486.0,Hall Property,38.708361,-76.74585
 67487.0,Jonesboro CWL Solar Park,35.814274,-90.57867
+67488.0,TAI Huntsville Solar Hybrid,34.829551,-86.63035
 67489.0,Cavalry Solar Hybrid,40.895314,-86.81023
 67489.0,Cavalry Solar Hybrid,40.895314,-86.81023
 67490.0,Spectrum Solar Hybrid,38.95,-76.95
@@ -26255,6 +26172,8 @@ plant_id,plant_name,latitude,longitude
 67578.0,Sandwich,41.71775,-70.47994
 67578.0,Sandwich,41.71775,-70.47994
 67585.0,Ny Frankfort Bleecker St - Frankfort -NG,43.088444,-75.17699
+67587.0,SV CSG AFTON I,44.943,-92.857
+67588.0,DSI Don Solar,44.805,-95.2056
 67592.0,NSF Aurelius Site 1 LLC,42.92211,-76.60788
 67593.0,"NSF Aurelius Site 2, LLC",42.92269,-76.60255
 67594.0,NSF Aurelius Site 3 LLC,42.91942,-76.60775
@@ -26276,9 +26195,11 @@ plant_id,plant_name,latitude,longitude
 67621.0,Rivard 2,45.50275,-79.28172
 67631.0,County Route 11B,44.939563,-73.67152
 67690.0,Oaks Landfill CS 2,39.193664,-77.1187
-67707.0,CUA West Campus South,38.93526,-77.00252
+67694.0,Capon Bridge Solar LLC,39.28724,-78.64196
+67695.0,Holtville,32.813389,-115.3887
+67707.0,CUA West Campus - South (CSG),38.93526,-77.00252
 67708.0,EDF Saucon Valley,40.581825,-75.35727
-67709.0,CUA West Campus - North,38.93526,-77.00252
+67709.0,CUA West Campus - North (CSG),38.93526,-77.00252
 67720.0,Whiskey Acres,41.877,-88.733
 67726.0,"Bonduel Solar WI, LLC",44.731025,-88.37428
 67729.0,"Jackson Solar WI, LLC",43.308571,-88.09055
@@ -26290,266 +26211,58 @@ plant_id,plant_name,latitude,longitude
 67744.0,Dynamic Energy CT STAG,41.229412,-73.02354
 67745.0,White Plains RFP Shapham Place,41.021546,-73.75892
 67745.0,White Plains RFP Shapham Place,41.021546,-73.75892
+67751.0,DG Harlem Solar,42.172941,-89.41336
+67753.0,Plote Somonauk,41.674,-88.682
+67760.0,All World Solar Facility,42.461976,-88.99879
+67790.0,Abel Solar,41.793,-90.032
+67791.0,ABIA Parking Structure,30.2047,-97.6686
+67792.0,Bunker Hill Solar,41.773,-89.864
+67795.0,DPC Madison,43.2747,-91.9414
+67796.0,DPC York,41.993718,-90.11077
+67801.0,FedEx Hagerstown,39.6385,-77.7923
+67803.0,GRE Cambridge Solar,45.5885,-93.1826
+67808.0,NJ Airport Solar Project A,40.684,-74.191
+67809.0,NJ Airport Solar Project B,40.684,-74.191
+67810.0,NJ Airport Solar Project C,40.684,-74.191
+67811.0,NJ Airport Solar Project D,40.684,-74.191
+67813.0,Round Grove 1,41.759,-89.864
+67814.0,Round Grove 2,41.76,-89.867
+67815.0,Fond du Lac Community Solar,43.734,-88.473
+67821.0,TJX Tucson,32.125,-110.9139
+67824.0,TJX Phoenix,33.418481,-112.1781
+67825.0,TJX Las Vegas,36.251,-115.0816
+67832.0,Yorktown 1 Solar,41.768,-89.862
+67833.0,Yorktown 2 Solar,41.768,-89.859
+67835.0,Costa View Farms,36.99,-120.308
+67853.0,Delta Electronics Fremont,37.48963,-121.949
+67853.0,Delta Electronics Fremont,37.48963,-121.949
 ,,,
-66270.0,Proxima,37.40035,-121.1628
-66948.0,"VS BC Pacific Gateway, LLC",33.85324,-118.2968
-67092.0,Paulsell,37.374065,-121.1352
-67092.0,Paulsell,37.374065,-121.1352
-2790.0,R M Heskett,46.8669,-100.8836
-6566.0,Bethel,60.7897,-161.7878
-7028.0,Whitehead,40.1817,-111.6203
-7028.0,Whitehead,40.1817,-111.6203
-7028.0,Whitehead,40.1817,-111.6203
-55841.0,Silverhawk,36.4078,-114.9606
-55841.0,Silverhawk,36.4078,-114.9606
-59817.0,Tooele Army Depot(CSG),40.50303,-112.3706
 60192.0,North Fork Community Power,37.231531,-119.4943
 60192.0,North Fork Community Power,37.231531,-119.4943
-60466.0,Waterman Turnout Hydroelectric,34.172625,-117.278
+66715.0,Fresno Community Solar,36.696,-119.885
+59871.0,Desert Quartzite,33.565,-114.753
+59871.0,Desert Quartzite,33.565,-114.753
 60572.0,White Wing Solar,32.994056,-113.5088
-61801.0,"Cascade Energy Storage, LLC",37.920124,-121.2392
-61803.0,"Sierra Energy Storage, LLC",37.8744,-120.4774
 63325.0,Yorktown Battery Energy Storage Facility,34.00467,-118.0684
 63326.0,Cadillac Battery Energy Storage Facility,34.00469,-118.0684
-63559.0,MMWEC Simple Cycle Gas Turbine,42.54342,-70.92797
+63554.0,Mohave Electric Cooperative at Joy Lane,34.9843,-114.5565
 63870.0,Camp San Luis Obispo,35.322043,-120.7323
 63877.0,"Willowbrook Solar I, LLC",39.021755,-83.70501
 64098.0,Tesla Reno GigaFactory,39.539511,-119.4392
-64239.0,7V Solar Ranch,29.806984,-97.07408
+64133.0,"Old 300 Solar Center, LLC",29.33355,-95.82544
 64258.0,AP Sunray LLC,29.291845,-99.61237
-64530.0,Woodville Solar,41.45854,-71.70421
 64660.0,"AEUG Union Solar, LLC",40.437526,-83.48349
+64672.0,"Blue Jay Solar I, LLC",30.705329,-96.06983
 64728.0,Novel Froehle Solar LLC,45.467562,-94.39816
 64729.0,Novel Milbradt Solar LLC,44.651132,-95.33955
 64844.0,Three Rivers Solar LLC,42.16882,-72.39438
 64844.0,Three Rivers Solar LLC,42.16882,-72.39438
 65014.0,ASD Cotuit MA Solar LLC,41.688722,-70.47748
-65030.0,Oxbow Solar 1,30.667878,-91.39171
+65018.0,Mossy Branch Battery Facility,32.803569,-84.66039
 65070.0,Austin TX GigaFactory,30.22021,-97.61968
 65070.0,Austin TX GigaFactory,30.22021,-97.61968
 65070.0,Austin TX GigaFactory,30.22021,-97.61968
 65079.0,Cottontail Solar 4,40.988822,-76.79292
-65161.0,ASA Clayton NY Solar I LLC,44.161761,-76.10899
-65343.0,"Ross County Solar, LLC",39.325867,-83.35276
-65397.0,Santa Paula Energy Storage LLC,34.35716,-119.055
-65488.0,Crockett,31.377355,-95.47908
-65489.0,Dickens,33.781077,-100.8832
-65490.0,Hydra,30.992905,-102.2895
-65491.0,Paleo,33.889462,-101.8016
-65492.0,Pavo,30.885123,-102.4226
-65493.0,Tortolas,29.432362,-95.2507
-65561.0,South Fork Wind,41.09,-71.13
-65590.0,Octans,31.000575,-102.6799
-65711.0,Vikings Energy Farm,32.803363,-115.2717
-65896.0,Gallaudet Uni Community Solar,38.90724,-76.99372
-65940.0,Shasta College PH2 Solar Project,40.62524,-122.314
-65940.0,Shasta College PH2 Solar Project,40.62524,-122.314
-66110.0,Babbitt Ranch Energy Center,35.627731,-111.8679
-66157.0,Red Tailed Hawk Solar LLC,29.159228,-96.14157
-66167.0,AM Wind Repower LLC,33.943741,-116.6615
-66168.0,Cattlemen Solar Park,31.045676,-96.85863
-66262.0,Rowland Solar II,29.39,-95.78
-66325.0,Hemmingway BESS,43.35151,-116.6621
-66326.0,Black Mesa BESS,42.908446,-115.1813
-66327.0,Elmore BESS,43.17756,-115.7167
-66328.0,Filer BESS,42.57156,-114.5951
-66329.0,Melba BESS,43.372252,-116.5609
-66330.0,Weiser BESS,44.24753,-116.9853
-66333.0,Superstition Energy Storage,33.35898,-111.8311
-66345.0,Elk Solar LLC,34.983948,-79.27671
-66420.0,Five Wells Solar Center - Hybrid,30.998647,-97.25902
-66494.0,Menifee Power Bank,33.739005,-117.1698
-66506.0,West Tambo Clean Power II,37.360955,-120.7194
-66509.0,CA Manteca 730 Spreckels Ave,37.788679,-121.1945
-66509.0,CA Manteca 730 Spreckels Ave,37.788679,-121.1945
-66516.0,TX Dallas 7750 Dynasty Drive,32.652269,-96.75577
-66517.0,TX Houston 7080 Express Lane,29.825138,-95.24706
-66571.0,BKV Ponder Solar 1,33.155767,-97.25464
-66604.0,Remy Jade Power Station,29.848372,-95.0164
-66604.0,Remy Jade Power Station,29.848372,-95.0164
-66617.0,Cald BESS,33.955872,-118.2321
-66623.0,Harvest Gold Solar,33.505,-90.636
-66628.0,"Altona Solar, LLC",39.28345,-92.14203
-66650.0,Bear Canyon,38.762781,-122.6928
-66666.0,Tumbleweed Energy Storage,34.83427,-118.339
-66669.0,West Ford Flat,38.788111,-122.7218
-66690.0,"Brazos Bend BESS, LLC",29.56318,-95.80023
-66715.0,Fresno Community Solar,36.696,-119.885
-66750.0,Mahany,42.469941,-77.69541
-66757.0,Bottleneck Energy Storage,35.838361,-119.0884
-66761.0,West Shore Solar LLC,41.80327,-73.96494
-66804.0,Borden County BESS,32.72233,-101.6385
-66809.0,Avenue 26 Solar,37.125754,-120.1788
-66809.0,Avenue 26 Solar,37.125754,-120.1788
-66827.0,FFP - NY Burch,43.32265,-73.46798
-66868.0,Big Spring Solar,39.6301,-77.9099
-66885.0,Baldy Mesa 2_Silver Peak Hybrid,34.609137,-117.4537
-66885.0,Baldy Mesa 2_Silver Peak Hybrid,34.609137,-117.4537
-66902.0,Roadrunner Wind Farm,32.437418,-99.10891
-66909.0,Fork in the Road Solar,41.95,-73.75
-66946.0,"Lockhart ESS, LLC",35.032461,-117.3567
-66955.0,Three Corners Solar,44.612621,-69.45182
-66961.0,ME Novel Lighthouse - Penobscot,46.000113,-68.45582
-66973.0,MN East Regal LLC,45.394755,-94.74221
-67003.0,Atrisco Solar LLC,35.189061,-106.8605
-67009.0,Preston Garden,44.535906,-94.91133
-67016.0,Dynamic - Enfield Hammett Road,45.243615,-68.6206
-67019.0,"Copperhead Solar, LLC",31.45,-96.86
-67019.0,"Copperhead Solar, LLC",31.45,-96.86
-67031.0,NY Hermon 1040 County Rd 21,44.432,-75.21
-67045.0,NY Avon I CSG,42.9002,-77.7295
-67056.0,Ledgeview,43.779832,-88.34653
-67072.0,Small Mouth Bass Solar,37.906257,-79.40387
-67091.0,Yellow Pine II,36.075505,-115.7913
-67097.0,Hy-Vee Customer Hosted 2.25MW Solar,41.035595,-93.33099
-67099.0,Perry Customer Hosted 1MW Solar Project,41.843474,-94.12034
-67106.0,"Gooseberry Solar, LLC",41.520824,-87.57228
-67113.0,SSC Oswego II LLC,43.470642,-76.47192
-67114.0,Torrence Ave Solar 1 LLC,41.496,-87.56
-67115.0,"North Cottage Grove Solar 1, LLC",41.526376,-87.60076
-67162.0,Groton BESS 2,42.61566,-71.57778
-67169.0,Bear Creek Solar (CA),37.919197,-122.1863
-67183.0,Franklin Battery Storage,42.192956,-114.6101
-67185.0,Groton BESS 1,42.609132,-71.53915
-67279.0,Borrego - Highland Ave,41.661525,-71.05998
-67279.0,Borrego - Highland Ave,41.661525,-71.05998
-67304.0,Davis Battery Storage,40.144366,-104.7451
-67307.0,Platte Valley Battery Storage,39.988332,-104.8451
-67405.0,Beech Road,38.82294,-76.93471
-67406.0,Comfort,43.0169,-78.9779
-67407.0,Clemons Road Solar,43.063039,-76.01097
-67408.0,Pike Road Solar (NY),42.96881,-78.21004
-67409.0,Alexander Road Solar,42.973941,-78.20607
-67436.0,West Point RNG,42.75,-114.646
-67488.0,TAI Huntsville Solar Hybrid,34.829551,-86.63035
-67504.0,Walnut Bend Solar Station PV,34.51401,-91.45365
-67587.0,SV CSG AFTON I,44.943,-92.857
-67588.0,DSI Don Solar,44.805,-95.2056
-67694.0,Capon Bridge Solar LLC,39.28724,-78.64196
-67695.0,Holtville,32.813389,-115.3887
-56134.0,Regional Wastewater Control Facility,37.9369,-121.3294
-59871.0,Desert Quartzite,33.565,-114.753
-59871.0,Desert Quartzite,33.565,-114.753
-63342.0,Bearkat II Wind Energy LLC,31.754037,-101.6752
-64133.0,"Old 300 Solar Center, LLC",29.33355,-95.82544
-64202.0,"Big Star Solar, LLC (Hybrid)",29.894053,-97.27054
-64202.0,"Big Star Solar, LLC (Hybrid)",29.894053,-97.27054
-64672.0,"Blue Jay Solar I, LLC",30.705329,-96.06983
-65018.0,Mossy Branch Battery Facility,32.803569,-84.66039
-65239.0,"AE-ESS NWS 1, LLC",40.74041,-73.95107
-65292.0,OE_FL7,29.74118,-81.69886
-65317.0,Springfield Solar,38.093,-76.799
-65318.0,Quillwort Solar,37.567,-77.9271
-65426.0,"Perendale Holdings, LLC",35.985701,-80.54407
-65616.0,CA - Amazon - SMF6,38.75,-121.55
-65698.0,TX15 Limousin Oak Storage,30.65991,-95.9738
-65760.0,"El Sauz Ranch Wind, LLC",26.500883,-97.59906
-65765.0,"High River Energy Center, LLC",42.901856,-74.13273
-65902.0,Gans Solar,39.750126,-79.8358
-65903.0,Pechin Solar,39.96106,-79.64394
-65937.0,"Porter Solar, LLC (TX)",33.310446,-97.36977
-65959.0,WMATA - Cheverly Metro,38.915643,-76.91737
-66070.0,Buffalo Sun CSG,44.799686,-94.01997
-66111.0,Elizabeth Solar Plant,30.81981,-92.97176
-66123.0,Prairie Switch Wind LLC,29.0919,-96.09
-66239.0,Pearl River Solar Park LLC,32.550998,-89.73014
-66282.0,Woodruff County Solar,35.256256,-91.34019
-66325.0,Hemmingway BESS,43.35151,-116.6621
-66338.0,Callisto I Energy Center,29.646811,-95.45054
-66349.0,Green Solar LLC (CSG),44.487289,-121.2497
-66410.0,Grizzly Ridge Solar,31.738177,-98.21374
-66449.0,Northline Solar,42.8691,-73.6153
-66461.0,Beaumont BESS,33.92444,-116.9876
-66494.0,Menifee Power Bank,33.739005,-117.1698
-66544.0,Moonshot,30.437172,-89.5029
-66574.0,San Juan Solar I,36.842533,-108.3514
-66574.0,San Juan Solar I,36.842533,-108.3514
-66600.0,Bushy Park Combustion Turbine Facility,33.014915,-79.93005
-66603.0,IGS OXR1,34.212521,-119.1297
-66615.0,Eunice LA Plant,30.461,-92.532
-66619.0,"AFTW Storage, LLC",35.095124,-119.0659
-66625.0,Prairie Mist Solar,33.255423,-91.66895
-66632.0,"Kimmel Road Solar, LLC",38.050106,-89.21268
-66638.0,Enchanted Rock Lodi,38.147724,-121.2997
-66666.0,Tumbleweed Energy Storage,34.83427,-118.339
-66679.0,Tulare CSG LLC,35.98738,-119.4804
-66688.0,"Bright Arrow Solar, LLC",33.22392,-95.73077
-66694.0,Atrisco Energy Storage,35.197003,-106.9125
-66735.0,Kosa,42.068818,-77.80742
-66792.0,Falfurrias BESS,27.242427,-98.14055
-66795.0,CISCO BESS,32.391533,-98.97816
-66801.0,"Fence Post Solar Hybrid Project, LLC",32.072844,-96.22393
-66801.0,"Fence Post Solar Hybrid Project, LLC",32.072844,-96.22393
-66811.0,Clearwater Wind III,46.818828,-106.1946
-66821.0,Orion III Solar Project,30.960219,-97.12452
-66830.0,Harrah's Atlantic City - POI 1 (Meeting Center and Valet Garage),39.384389,-74.42627
-66859.0,Orion I Solar Project,30.996511,-97.00151
-66900.0,Rivesville Solar,39.539042,-80.0944
-66910.0,"Myrtle Solar, LLC",29.228486,-95.42744
-66913.0,Myrtle Storage,29.227753,-95.42806
-66914.0,"Danish Fields Solar, LLC",29.013637,-96.22054
-66915.0,Cottonwood Bayou Solar,29.263123,-95.258
-66916.0,Danish Fields Storage,29.013637,-96.22054
-66952.0,Prescott Wind Farm,41.121034,-94.60513
-67008.0,"River Fork Solar, LLC",42.281313,-84.75561
-67015.0,Dynamic - Exeter Solar,44.975721,-69.0904
-67029.0,Henry Gibson Solar,34.780905,-79.56957
-67041.0,McLauchin,34.996432,-79.10712
-67042.0,Butler,34.898072,-78.89897
-67043.0,Double Creek,36.413913,-80.41
-67083.0,"Longbow BESS, LLC",29.281605,-95.29553
-67107.0,"Monee Solar 1, LLC",41.383165,-87.7751
-67108.0,"Mulberry Solar, LLC",38.729,-90.135
-67156.0,Pine Hill Westport,41.605142,-71.04409
-67159.0,Liberty County Solar Project,29.95888,-94.85048
-67186.0,Holden BESS 1,42.338797,-71.83864
-67248.0,McCormick NY CSG LLC,42.153,-77.806
-67267.0,"Surbrook Solar, LLC",42.3881,-84.4902
-67278.0,Bishop Ranch - BR 2600,37.766308,-121.9617
-67278.0,Bishop Ranch - BR 2600,37.766308,-121.9617
-67278.0,Bishop Ranch - BR 2600,37.766308,-121.9617
-67321.0,Yuma Solar + Storage,32.642434,-114.4292
-67323.0,High Mesa CO,39.3959,-108.0733
-67323.0,High Mesa CO,39.3959,-108.0733
-67361.0,Dove Solar CSG,40.318,-104.8914
-67427.0,BNRG Masardis,46.53099,-68.33932
-67499.0,Brewer,44.7977,-68.7146
-67547.0,USS Rosewood Solar LLC,44.974692,-95.71466
-67548.0,USS Slayton Solar LLC,43.981733,-95.76578
-67583.0,DC Water,38.91,-76.99
-67628.0,Trinity Freeport,42.274477,-89.56024
-67632.0,Acer,44.756501,-75.1604
-67633.0,Breezewood,40.438673,-88.99117
-67638.0,Grass River,44.623428,-75.20335
-67642.0,Skyline,39.563746,-89.27005
-67670.0,MD JESSUP 7950 OCEANO AVE,39.157496,-76.78725
-67687.0,SV CSG German Valley 1 LLC,42.215173,-89.48113
-67714.0,IL Rochelle 975 S. Caron Rd,41.909729,-89.04429
-67721.0,Al Pastor Battery Storage Plant,32.7171,-101.9378
-67741.0,OIT BESS,42.259366,-121.7864
-8020.0,Baldwin City Plant No 2,38.764905,-95.19201
-8020.0,Baldwin City Plant No 2,38.764905,-95.19201
-50328.0,Byllesby,44.5119,-92.9394
-50328.0,Byllesby,44.5119,-92.9394
-50969.0,MU Combined Heat and Power Plant,38.9461,-92.3328
-52148.0,Elkton,38.3836,-78.6528
-52149.0,West Point (PA),40.217963,-75.29882
-54808.0,New York University Central Plant,40.7899,-73.9233
-54808.0,New York University Central Plant,40.7899,-73.9233
-55419.0,Plaquemine Cogeneration Plant,30.3217,-91.2347
-55419.0,Plaquemine Cogeneration Plant,30.3217,-91.2347
-56224.0,TS Power Plant,40.7461,-116.5297
-61168.0,"Eland Solar & Storage Center, Phase 1 Hybrid",35.2237,-117.977
-61168.0,"Eland Solar & Storage Center, Phase 1 Hybrid",35.2237,-117.977
-63028.0,Tip Top Solar Energy Center LLC,32.133136,-103.3235
-63339.0,"Hales Mills Solar, LLC",43.01827,-74.32918
-63622.0,OES Biogas Power,34.17325,-117.3464
-63622.0,OES Biogas Power,34.17325,-117.3464
-64347.0,Mockingbird Solar Center,33.39167,-95.42519
-64427.0,Copperton Solar Plant No. 1,40.57664,-112.0846
-64531.0,Noosa Energy Storage LLC,37.756292,-121.1481
-65028.0,"Roseland Solar Project, LLC",31.459835,-96.82493
-65128.0,Atlanta Farms Solar,39.56,-83.176
 65240.0,Maysville BESS,34.851782,-77.18158
 65241.0,McKinney BESS,34.905833,-79.75702
 65243.0,New Rosewood BESS,35.436188,-78.10965
@@ -26560,113 +26273,284 @@ plant_id,plant_name,latitude,longitude
 65248.0,Collier BESS,35.204903,-78.89031
 65249.0,Docs Road BESS,35.323928,-78.9975
 65250.0,Five Points BESS,35.632465,-79.68196
-65320.0,Sebera Solar,37.25,-77.25
+65292.0,OE_FL7,29.74118,-81.69886
+65397.0,Santa Paula Energy Storage LLC,34.35716,-119.055
+65616.0,CA - Amazon - SMF6,38.75,-121.55
+65698.0,TX15 Limousin Oak Storage,30.65991,-95.9738
+65711.0,Vikings Energy Farm,32.803363,-115.2717
+65765.0,"High River Energy Center, LLC",42.901856,-74.13273
+65937.0,"Porter Solar, LLC (TX)",33.310446,-97.36977
+65959.0,WMATA - Cheverly Metro,38.915643,-76.91737
+66111.0,Elizabeth Solar Plant,30.81981,-92.97176
+66157.0,Red Tailed Hawk Solar LLC,29.159228,-96.14157
+66282.0,Woodruff County Solar,35.256256,-91.34019
+66338.0,Callisto I Energy Center,29.646811,-95.45054
+66449.0,Northline Solar,42.8691,-73.6153
+66461.0,Beaumont BESS,33.92444,-116.9876
+66494.0,Menifee Power Bank,33.739005,-117.1698
+66509.0,CA Manteca 730 Spreckels Ave,37.788679,-121.1945
+66509.0,CA Manteca 730 Spreckels Ave,37.788679,-121.1945
+66516.0,TX Dallas 7750 Dynasty Drive,32.652269,-96.75577
+66571.0,BKV Ponder Solar 1,33.155767,-97.25464
+66603.0,IGS OXR1,34.212521,-119.1297
+66615.0,Eunice LA Plant,30.461,-92.532
+66617.0,Cald BESS,33.955872,-118.2321
+66619.0,"AFTW Storage, LLC",35.095124,-119.0659
+66623.0,Harvest Gold Solar,33.505,-90.636
+66625.0,Prairie Mist Solar,33.255423,-91.66895
+66628.0,"Altona Solar, LLC",39.28345,-92.14203
+66632.0,"Kimmel Road Solar, LLC",38.050106,-89.21268
+66666.0,Tumbleweed Energy Storage,34.83427,-118.339
+66679.0,Tulare CSG LLC,35.98738,-119.4804
+66750.0,Mahany,42.469941,-77.69541
+66757.0,Bottleneck Energy Storage,35.838361,-119.0884
+66801.0,"Fence Post Solar Hybrid Project, LLC",32.072844,-96.22393
+66801.0,"Fence Post Solar Hybrid Project, LLC",32.072844,-96.22393
+66804.0,Borden County BESS,32.72233,-101.6385
+66809.0,Avenue 26 Solar,37.125754,-120.1788
+66809.0,Avenue 26 Solar,37.125754,-120.1788
+66811.0,Clearwater Wind III,46.818828,-106.1946
+66821.0,Orion III Solar Project,30.960219,-97.12452
+66859.0,Orion I Solar Project,30.996511,-97.00151
+66868.0,Big Spring Solar,39.6301,-77.9099
+66885.0,Baldy Mesa 2_Silver Peak Hybrid,34.609137,-117.4537
+66885.0,Baldy Mesa 2_Silver Peak Hybrid,34.609137,-117.4537
+66900.0,Rivesville Solar,39.539042,-80.0944
+66948.0,"VS BC Pacific Gateway, LLC",33.85324,-118.2968
+66961.0,ME Novel Lighthouse - Penobscot,46.000113,-68.45582
+66973.0,MN East Regal LLC,45.394755,-94.74221
+67008.0,"River Fork Solar, LLC",42.281313,-84.75561
+67009.0,Preston Garden,44.535906,-94.91133
+67015.0,Dynamic - Exeter Solar,44.975721,-69.0904
+67016.0,Dynamic - Enfield Hammett Road,45.243615,-68.6206
+67019.0,"Copperhead Solar, LLC",31.45,-96.86
+67019.0,"Copperhead Solar, LLC",31.45,-96.86
+67031.0,NY Hermon 1040 County Rd 21,44.432,-75.21
+67034.0,NY SHERMAN 176 W MAIN ST - SL 1,42.156051,-79.60161
+67056.0,Ledgeview,43.779832,-88.34653
+67072.0,Small Mouth Bass Solar,37.906257,-79.40387
+67083.0,"Longbow BESS, LLC",29.281605,-95.29553
+67106.0,"Gooseberry Solar, LLC",41.520824,-87.57228
+67113.0,SSC Oswego II LLC,43.470642,-76.47192
+67114.0,Torrence Ave Solar 1 LLC,41.496,-87.56
+67115.0,"North Cottage Grove Solar 1, LLC",41.526376,-87.60076
+67162.0,Groton BESS 2,42.61566,-71.57778
+67185.0,Groton BESS 1,42.609132,-71.53915
+67186.0,Holden BESS 1,42.338797,-71.83864
+67248.0,McCormick NY CSG LLC,42.153,-77.806
+67267.0,"Surbrook Solar, LLC",42.3881,-84.4902
+67278.0,Bishop Ranch - BR 2600,37.766308,-121.9617
+67278.0,Bishop Ranch - BR 2600,37.766308,-121.9617
+67278.0,Bishop Ranch - BR 2600,37.766308,-121.9617
+67304.0,Davis Battery Storage,40.144366,-104.7451
+67321.0,Yuma Solar + Storage,32.642434,-114.4292
+67405.0,Beech Road,38.82294,-76.93471
+67406.0,Comfort,43.0169,-78.9779
+67436.0,West Point RNG,42.75,-114.646
+67499.0,Brewer,44.7977,-68.7146
+67547.0,USS Rosewood Solar LLC,44.974692,-95.71466
+67548.0,USS Slayton Solar LLC,43.981733,-95.76578
+67628.0,Trinity Freeport,42.274477,-89.56024
+67634.0,Buck Run,43.282648,-77.96581
+67670.0,MD JESSUP 7950 OCEANO AVE,39.157496,-76.78725
+67741.0,OIT BESS,42.259366,-121.7864
+67806.0,Macomb 2A,40.454,-90.688
+67836.0,Gibson Solar Project - Hybrid,38.678386,-121.9876
+67836.0,Gibson Solar Project - Hybrid,38.678386,-121.9876
+67855.0,Westwing,33.7131,-112.3242
+50328.0,Byllesby,44.5119,-92.9394
+50328.0,Byllesby,44.5119,-92.9394
+50969.0,MU Combined Heat and Power Plant,38.9461,-92.3328
+52148.0,Elkton,38.3836,-78.6528
+54808.0,New York University Central Plant,40.7899,-73.9233
+56134.0,Regional Wastewater Control Facility,37.9369,-121.3294
+56224.0,TS Power Plant,40.7461,-116.5297
+60466.0,Waterman Turnout Hydroelectric,34.172625,-117.278
+61168.0,"Eland Solar & Storage Center, Phase 1 Hybrid",35.2237,-117.977
+61168.0,"Eland Solar & Storage Center, Phase 1 Hybrid",35.2237,-117.977
+61801.0,"Cascade Energy Storage, LLC",37.920124,-121.2392
+63028.0,Tip Top Solar Energy Center LLC,32.133136,-103.3235
+63339.0,"Hales Mills Solar, LLC",43.01827,-74.32918
+63342.0,Bearkat II Wind Energy LLC,31.754037,-101.6752
+63622.0,OES Biogas Power,34.17325,-117.3464
+63622.0,OES Biogas Power,34.17325,-117.3464
+64202.0,"Big Star Solar, LLC (Hybrid)",29.894053,-97.27054
+64202.0,"Big Star Solar, LLC (Hybrid)",29.894053,-97.27054
+64239.0,7V Solar Ranch,29.806984,-97.07408
+64347.0,Mockingbird Solar Center,33.39167,-95.42519
+64427.0,Copperton Solar Plant No. 1,40.57664,-112.0846
+64530.0,Woodville Solar,41.45854,-71.70421
+65028.0,"Roseland Solar Project, LLC",31.461242,-96.82493
+65239.0,"AE-ESS NWS 1, LLC",40.74041,-73.95107
 65456.0,Separator (Etiwanda) BESS,34.09211,-117.534
 65457.0,Cathode (Hinson) BESS,33.7763,-118.2003
 65457.0,Cathode (Hinson) BESS,33.7763,-118.2003
-65591.0,AVEP BESS,34.878039,-118.347
 65663.0,Sandrini Solar 200,35.1026,-119.0541
 65693.0,TX10 Hummingbird Storage,33.3256,-97.31433
+65760.0,"El Sauz Ranch Wind, LLC",26.500883,-97.59906
 65801.0,Limestone CSG 1 LLC,46.916446,-67.85511
 65802.0,Limestone CSG 2 LLC,46.929112,-67.8359
 65828.0,Chidsey Hill Road Solar,42.573062,-77.16598
 65945.0,Brookville Smart Bus Depot Microgrid,38.99903,-77.058
 65945.0,Brookville Smart Bus Depot Microgrid,38.99903,-77.058
-65957.0,Mammoth North Solar,41.19933,-86.63379
 66027.0,Wolfskin Solar,33.881462,-83.24668
+66070.0,Buffalo Sun CSG,44.799686,-94.01997
 66073.0,Quarry Sun CSG,44.043674,-92.6952
-66269.0,Riverstart Solar Park III,40.055556,-85.12663
+66168.0,Cattlemen Solar Park,31.045676,-96.85863
 66316.0,Madison Solar,38.28775,-77.84005
+66325.0,Hemmingway BESS,43.35151,-116.6621
+66326.0,Black Mesa BESS,42.908446,-115.1813
+66327.0,Elmore BESS,43.17756,-115.7167
+66328.0,Filer BESS,42.57156,-114.5951
+66329.0,Melba BESS,43.372252,-116.5609
+66330.0,Weiser BESS,44.24753,-116.9853
 66365.0,"Erie Solar, LLC",42.0131,-80.30728
 66462.0,Placerita ESS,34.41,-118.45
 66494.0,Menifee Power Bank,33.739005,-117.1698
 66505.0,EnerSmart Chula Vista Sub Station,32.5945,-117.0507
 66505.0,EnerSmart Chula Vista Sub Station,32.5945,-117.0507
+66506.0,West Tambo Clean Power II,37.360955,-120.7194
+66517.0,TX Houston 7080 Express Lane,29.825138,-95.24706
+66574.0,San Juan Solar I,36.842533,-108.3514
+66574.0,San Juan Solar I,36.842533,-108.3514
 66576.0,Fox Garden,43.975105,-93.49155
 66578.0,Pickerel Garden,45.4295,-94.0237
+66600.0,Bushy Park Combustion Turbine Facility,33.014915,-79.93005
+66604.0,Remy Jade Power Station,29.848372,-95.0164
+66604.0,Remy Jade Power Station,29.848372,-95.0164
 66633.0,"Salt Creek Township Solar, LLC",40.182668,-89.72027
 66637.0,McFarland B Solar and Storage,32.957479,-113.476
 66637.0,McFarland B Solar and Storage,32.957479,-113.476
+66638.0,Enchanted Rock Lodi,38.147724,-121.2997
 66646.0,"Martin County Solar Project, LLC",37.765452,-82.47413
+66688.0,"Bright Arrow Solar, LLC",33.22392,-95.73077
+66690.0,"Brazos Bend BESS, LLC",29.56318,-95.80023
+66694.0,Atrisco Energy Storage,35.197003,-106.9125
+66735.0,Kosa,42.068818,-77.80742
+66792.0,Falfurrias BESS,27.242427,-98.14055
+66795.0,CISCO BESS,32.391533,-98.97816
 66800.0,Bishop Ranch - BR 8-P,37.76819,-121.9666
 66800.0,Bishop Ranch - BR 8-P,37.76819,-121.9666
 66810.0,East Cleveland Road Solar,37.124972,-120.4575
-66837.0,Alton Post Office Solar,36.568918,-79.03292
-66886.0,Elk Street Solar,42.85,-78.85
-66947.0,Mannys Corners Solar 1 LLC,42.964,-74.1444
+66909.0,Fork in the Road Solar,41.95,-73.75
+66910.0,"Myrtle Solar, LLC",29.228486,-95.42744
+66913.0,Myrtle Storage,29.227753,-95.42806
+66914.0,"Danish Fields Solar, LLC",29.013637,-96.22054
+66915.0,Cottonwood Bayou Solar,29.263123,-95.258
+66916.0,Danish Fields Storage,29.013637,-96.22054
 66950.0,Sagebrush Solar 2 ESS 59,35.0477,-118.2628
+66952.0,Prescott Wind Farm,41.121034,-94.60513
 66990.0,Washington County Solar,32.989939,-82.71381
+67003.0,Atrisco Solar LLC,35.189061,-106.8605
 67006.0,Greasewood II LLC,31.10409,-102.6063
 67011.0,Dynamic - Wales Leeds Junction Road,44.199291,-70.068
 67012.0,Dynamic - Norridgewock Martin Stream,44.694066,-69.787
 67017.0,Dynamic - Glenburn Broadway One,44.875771,-68.851
+67029.0,Henry Gibson Solar,34.780905,-79.56957
 67036.0,Davistown-Mercer,35.84423,-77.61267
 67037.0,Medoc,36.24805,-77.85024
 67040.0,Archie Horne,34.917699,-77.63126
+67041.0,McLauchin,34.996432,-79.10712
+67042.0,Butler,34.898072,-78.89897
+67043.0,Double Creek,36.413913,-80.41
 67044.0,Fairfield Harbor,35.15122,-76.99299
 67095.0,"Montgomery Ranch Wind Farm, LLC",33.841272,-99.65781
+67107.0,"Monee Solar 1, LLC",41.383165,-87.7751
+67108.0,"Mulberry Solar, LLC",38.729,-90.135
 67120.0,Dover Energy Storage,27.957786,-82.20335
 67152.0,N Baker Road 2,42.435916,-89.90473
 67153.0,N Baker Road,42.435913,-89.90352
-67166.0,Fayette Solar,39.383,-83.4
+67159.0,Liberty County Solar Project,29.95888,-94.85048
+67183.0,Franklin Battery Storage,42.192956,-114.6101
 67190.0,Franklin Solar Hybrid,42.2042,-114.6099
 67198.0,N Solon Road (South),42.461344,-88.27943
 67199.0,Morey Road,44.273299,-85.20803
 67200.0,Lake City,44.289589,-85.21448
-67264.0,Jackson Pike WWTP Cogen Engines,39.911247,-83.01651
-67264.0,Jackson Pike WWTP Cogen Engines,39.911247,-83.01651
 67276.0,Upland,41.964076,-70.78877
 67277.0,Bishop Ranch - BR 15-DD,37.7729,-121.9595
 67277.0,Bishop Ranch - BR 15-DD,37.7729,-121.9595
 67277.0,Bishop Ranch - BR 15-DD,37.7729,-121.9595
+67279.0,Borrego - Highland Ave,41.661525,-71.05998
+67279.0,Borrego - Highland Ave,41.661525,-71.05998
 67287.0,Dos Palos Clean Power,37.002643,-120.6382
 67302.0,Frederick Battery Storage,40.10462,-104.9845
+67323.0,High Mesa CO,39.3959,-108.0733
+67323.0,High Mesa CO,39.3959,-108.0733
 67342.0,Carvers Creek Solar,37.56189,-76.60537
+67361.0,Dove Solar CSG,40.318,-104.8914
 67403.0,Altamont (NY),42.678742,-73.94719
 67417.0,Exeter Renewables 1,41.58,-71.523
 67431.0,BNRG North Anson,44.851756,-69.91664
-67442.0,Gowans,42.641661,-79.0173
 67480.0,NY Finchville Tpke CSG,41.449394,-74.55478
 67483.0,Norfolk Landfill Solar Project,41.981,-73.152
 67484.0,Raffia Road Solar Project,41.964,-72.561
-67579.0,AES ES Alamitos 2 LLC,33.770287,-118.1
+67504.0,Walnut Bend Solar Station PV,34.51401,-91.45365
+67583.0,DC Water,38.91,-76.99
 67584.0,Oneida East,43.19,-75.21
+67633.0,Breezewood,40.438673,-88.99117
 67636.0,Galt,41.784441,-89.76102
 67693.0,Tubolino CSG,43.803688,-76.03003
-67738.0,Citadel Battery Storage Plant,29.87404,-95.01824
+67721.0,Al Pastor Battery Storage Plant,32.7171,-101.9378
 67739.0,Wigeon Whistle Battery Storage Plant,33.030354,-96.3572
+67773.0,Cosper Solar,30.994225,-97.79588
+67804.0,Harmony Solar Project,42.366,-89.78
+67807.0,Madawaska Solar,47.343,-68.239
+67812.0,Rockford Plant,42.232,-89.027
+67818.0,Solar Powered Ag,36.138287,-119.5643
+67822.0,Unity Solar Project (IL),42.369,-89.78
+67826.0,Caribou Solar,46.819577,-67.99213
+67827.0,TJX 2021 DG El Paso DC,31.807733,-106.3378
+67846.0,Rivanna Solar,37.966,-78.4
 2023.0,Windom,43.86811,-95.11444
 2023.0,Windom,43.86811,-95.11444
 2678.0,Plant No 1 Freeport,40.6561,-73.5922
 7277.0,Lincoln Combustion,35.4317,-81.0347
+8020.0,Baldwin City Plant No 2,38.764905,-95.19201
+8020.0,Baldwin City Plant No 2,38.764905,-95.19201
 52149.0,West Point (PA),40.217963,-75.29882
 54656.0,International Paper Riegelwood Mill,34.3533,-78.2137
+54808.0,New York University Central Plant,40.7899,-73.9233
+55419.0,Plaquemine Cogeneration Plant,30.3217,-91.2347
+55419.0,Plaquemine Cogeneration Plant,30.3217,-91.2347
+59817.0,Tooele Army Depot(CSG),40.50303,-112.3706
+61694.0,Lockheed Martin Solar,28.539415,-81.21637
+61803.0,"Sierra Energy Storage, LLC",37.8744,-120.4774
 62520.0,State Route 64N Community Solar Farm,42.915,-77.454
 62523.0,Route 5 & 20 Community Solar Farm,42.899,-77.461
 62529.0,Hale Kuawehi Solar Hybrid,19.936688,-155.6793
-63093.0,Vineyard Wind 1,41.047111,-70.48738
 63194.0,Delilah Solar Energy LLC,33.284418,-95.16356
 63723.0,Ho'Ohana Solar 1,21.418811,-158.0329
 63723.0,Ho'Ohana Solar 1,21.418811,-158.0329
 63884.0,Delilah Solar Energy II LLC,33.481551,-95.26925
-64547.0,Turtle Creek,41.092238,-96.16831
-64547.0,Turtle Creek,41.092238,-96.16831
+64531.0,Noosa Energy Storage LLC,37.756292,-121.1481
 64745.0,"Black Hollow Sun, LLC",40.616742,-104.8489
 65072.0,Fremont CA AutoFactory,37.49254,-121.9446
 65072.0,Fremont CA AutoFactory,37.49254,-121.9446
 65072.0,Fremont CA AutoFactory,37.49254,-121.9446
+65128.0,Atlanta Farms Solar,39.56,-83.176
+65318.0,Quillwort Solar,37.567,-77.9271
+65320.0,Sebera Solar,37.25,-77.25
 65458.0,Anode (Springville) BESS,36.107903,-118.9409
 65458.0,Anode (Springville) BESS,36.107903,-118.9409
+65591.0,AVEP BESS,34.878039,-118.347
 65645.0,Lumina Solar Project,32.901081,-100.9827
 65736.0,Driver Solar,35.640573,-89.96939
 65892.0,Timberland Solar,33.964323,-82.81584
-65929.0,Listonburg Solar,39.76472,-79.30339
+65902.0,Gans Solar,39.750126,-79.8358
+65903.0,Pechin Solar,39.96106,-79.64394
+65957.0,Mammoth North Solar,41.19933,-86.63379
 66072.0,Oster Sun CSG,45.628723,-94.61461
+66123.0,Prairie Switch Wind LLC,29.0919,-96.09
+66239.0,Pearl River Solar Park LLC,32.550998,-89.73014
 66268.0,"Gravel Pit Solar, LLC",41.8889,-72.549
 66268.0,"Gravel Pit Solar, LLC",41.8889,-72.549
+66269.0,Riverstart Solar Park III,40.055556,-85.12663
+66325.0,Hemmingway BESS,43.35151,-116.6621
 66351.0,Marble Solar LLC (CSG),44.629783,-123.0213
 66355.0,Wallace Solar LLC (CSG),45.028153,-123.0969
+66410.0,Grizzly Ridge Solar,31.738177,-98.21374
 66436.0,USS Cogburn Solar LLC,40.464272,-104.6102
+66544.0,Moonshot,30.437172,-89.5029
 66599.0,Dark Sky Energy Center,33.270508,-116.347
 66626.0,Wadley Solar,32.820018,-82.40879
 66664.0,Dublin Street LLC,44.70049,-67.46977
@@ -26674,37 +26558,33 @@ plant_id,plant_name,latitude,longitude
 66676.0,Kings CSG 3 LLC,36.24918,-119.8852
 66688.0,"Bright Arrow Solar, LLC",33.22392,-95.73077
 66747.0,"Blue Bird Solar, LLC",38.895406,-91.13656
+66761.0,West Shore Solar LLC,41.80327,-73.96494
 66813.0,Caesar's Atlantic City - POI 1 (Colosseum),39.355676,-74.43552
 66831.0,Harrah's Atlantic City - POI 2 (Self Park Garage),39.384389,-74.42627
+66837.0,Alton Post Office Solar,36.568918,-79.03292
 66841.0,Foxglove Solar,39.073825,-78.28012
 66861.0,Indiana Crossroads Wind Farm II,40.779357,-87.04211
 66872.0,"Estonian Solar Project, LLC",33.457143,-95.6679
 66872.0,"Estonian Solar Project, LLC",33.457143,-95.6679
+66886.0,Elk Street Solar,42.85,-78.85
 66949.0,Sagebrush Solar 2 ESS 40,35.0477,-118.2628
 67010.0,Dynamic - Wales Pond Road,44.178859,-70.0703
 67025.0,Osawatomie Solar,38.521483,-94.93821
 67058.0,TX Fort Worth 5200 Gold Spike Drive,32.831328,-97.34727
 67071.0,Sunlight Road Solar,30.781803,-90.21736
 67104.0,Bayou Galion Solar Project,32.79754,-91.78413
-67118.0,Santee BESS,32.854918,-116.9684
 67119.0,Ring Road,41.975339,-70.78148
 67154.0,Mars Hill,46.516899,-67.8833
 67155.0,Our Katahdin,45.650357,-68.70798
+67156.0,Pine Hill Westport,41.605142,-71.04409
 67174.0,Chihuahuan Desert Solar,31.560528,-106.2586
 67187.0,Paxton BESS 1,42.291264,-71.94546
 67252.0,Foul Rift Solar Farm,40.8,-75.09
-67329.0,Sheesley,44.6059,-75.1589
 67337.0,Ver Plank North,43.201165,-76.17609
 67338.0,Ver Plank South,43.194602,-76.17513
-67360.0,Hat Creek Bioenergy,40.987783,-121.6225
-67396.0,Mechanic Street,46.6837,-68.0382
-67398.0,Missile Street,46.7057,-68.0441
 67410.0,Exeter Ten,41.58008,-71.56706
-67412.0,Geer Road Solar 2,43.36,-73.563
-67413.0,Geer Road Solar 3,43.354,-73.571
-67418.0,Geer Road Solar 1,43.356,-73.566
 67421.0,Cavalier Solar A2,37.018,-76.7358
-67437.0,North Woods,44.6177,-75.1622
+67427.0,BNRG Masardis,46.53099,-68.33932
 67493.0,Pavlov,28.994112,-96.1262
 67495.0,Russek,31.183494,-101.4604
 67496.0,Sandlake,31.508786,-103.6175
@@ -26712,13 +26592,27 @@ plant_id,plant_name,latitude,longitude
 67545.0,Marshall Solar Plus LLC,44.469889,-95.7792
 67580.0,Markum Solar Farm,31.694792,-97.37488
 67616.0,"Krumkill Road Solar South, LLC",42.66627,-73.85647
+67632.0,Acer,44.756501,-75.1604
 67635.0,Dakota,42.389211,-89.48509
+67638.0,Grass River,44.623428,-75.20335
 67640.0,Meltwater,43.068278,-75.94744
 67641.0,Niagara (NY),43.295921,-78.82587
+67642.0,Skyline,39.563746,-89.27005
 67646.0,Walldog,40.913454,-88.64291
 67648.0,Rio Vista Solar,38.16492,-121.6847
+67687.0,SV CSG German Valley 1 LLC,42.215173,-89.48113
 67706.0,Spring Lane,40.183449,-79.31957
+67714.0,IL Rochelle 975 S. Caron Rd,41.909729,-89.04429
+67738.0,Citadel Battery Storage Plant,29.87404,-95.01824
 67746.0,Highway 43 1887-WD,35.528089,-119.311
+67762.0,Stampede Solar Hybrid,33.201315,-95.31923
+67762.0,Stampede Solar Hybrid,33.201315,-95.31923
+67770.0,Pittsburg RV Solar,38.01155,-121.8453
+67799.0,Brittlebush Solar,32.925808,-111.4905
+67805.0,Illinois PV Knox 1B,40.766,-90.008
+67816.0,Illinois PV Knox 1A,40.769,-90.008
+67837.0,Ray Ranch Solar,28.628,-97.724
+67849.0,BT Signal Ranch,32.986,-96.086
 676.0,C D McIntosh Jr,28.0801,-81.9229
 676.0,C D McIntosh Jr,28.0801,-81.9229
 676.0,C D McIntosh Jr,28.0801,-81.9229
@@ -26728,23 +26622,14 @@ plant_id,plant_name,latitude,longitude
 56615.0,Rancho Penasquitos,32.93695,-117.1137
 59572.0,Cotton Solar,34.455,-79.41028
 62529.0,Hale Kuawehi Solar Hybrid,19.936688,-155.6793
-62729.0,Painter Energy Storage,34.41,-119.515
 63882.0,Samson Solar Energy II LLC,33.25102,-95.19343
-64346.0,Highland Solar South,27.2664,-81.4082
-64548.0,Standing Bear Lake,41.315814,-96.09392
-64548.0,Standing Bear Lake,41.315814,-96.09392
-64548.0,Standing Bear Lake,41.315814,-96.09392
-64548.0,Standing Bear Lake,41.315814,-96.09392
-64548.0,Standing Bear Lake,41.315814,-96.09392
-64548.0,Standing Bear Lake,41.315814,-96.09392
-64548.0,Standing Bear Lake,41.315814,-96.09392
-64548.0,Standing Bear Lake,41.315814,-96.09392
-64548.0,Standing Bear Lake,41.315814,-96.09392
 64865.0,Novel Blilie Solar LLC,46.630077,-96.75811
 65006.0,Novel Bo Hu 1 Solar LLC,44.41552,-93.15442
 65024.0,Novel Brock Solar LLC,44.791225,-95.76654
 65025.0,Novel Swenson Solar LLC,45.492022,-92.86583
+65343.0,"Ross County Solar, LLC",39.325867,-83.35276
 65395.0,Hummingbird Energy Storage LLC,37.239218,-121.7793
+65426.0,"Perendale Holdings, LLC",35.985701,-80.54407
 65665.0,Hecate Energy Pulaski 1,37.139595,-80.68741
 65907.0,Georges Lake,30.390039,-83.34395
 65908.0,Norton Creek,30.390039,-83.34395
@@ -26752,6 +26637,7 @@ plant_id,plant_name,latitude,longitude
 65911.0,Mitchell Creek,30.92851,-87.26414
 65920.0,Buttonwood,27.50809,-80.73638
 65921.0,Honeybell,27.50809,-80.73638
+65929.0,Listonburg Solar,39.76472,-79.30339
 65975.0,Starr Solar Ranch,26.523359,-99.01711
 65976.0,Prairie Ronde Solar Farm,30.61,-92.17
 66133.0,"Bartonsville Energy Facility, LLC",39.088731,-78.2399
@@ -26760,26 +26646,36 @@ plant_id,plant_name,latitude,longitude
 66523.0,NY Beaver Dams Dix 1239 Duvall Rd Solar,42.294646,-76.94717
 66524.0,Greene Community Solar,42.252071,-75.82642
 66746.0,AB Newark Solar,40.698064,-74.19201
+66830.0,Harrah's Atlantic City - POI 1 (Meeting Center and Valet Garage),39.384389,-74.42627
 66899.0,Marlowe Solar,39.589315,-77.83555
 66941.0,Orion II Solar Project,31.029028,-96.93478
+66947.0,Mannys Corners Solar 1 LLC,42.964,-74.1444
 67014.0,Dynamic - Gray Solar,43.89244,-70.317
 67047.0,Decatur Solar,30.854893,-84.44543
+67048.0,Bibb Williams,32.856937,-83.55016
 67049.0,County Line Renewable Energy Center,29.812218,-82.67597
 67197.0,Surrey Road,43.858529,-84.74891
 67201.0,DIA 9,39.84666,-104.6643
 67261.0,Goose Prairie Solar,46.52923,-120.2395
+67264.0,Jackson Pike WWTP Cogen Engines,39.911247,-83.01651
+67264.0,Jackson Pike WWTP Cogen Engines,39.911247,-83.01651
 67283.0,Six Flags Magic Mountain,34.428209,-118.5993
 67283.0,Six Flags Magic Mountain,34.428209,-118.5993
+67329.0,Sheesley,44.6059,-75.1589
 67362.0,Lark Bunting Solar CSG,40.311735,-104.7714
 67364.0,BecLee Solar CSG,40.47111,-104.6514
+67412.0,Geer Road Solar 2,43.36,-73.563
 67414.0,Princetown Solar 1,42.78,-74.07
+67418.0,Geer Road Solar 1,43.356,-73.566
 67426.0,Wolcott Hill (Camden),43.350259,-75.72924
 67429.0,BNRG Norridgewock,44.716375,-69.81124
+67442.0,Gowans,42.641661,-79.0173
 67447.0,Pomham Islander,41.95397,-71.52153
 67533.0,"RB Inyokern Solar WDAT 1203, LLC",35.655806,-117.8103
 67534.0,"RB Inyokern Solar WDAT 1281, LLC",35.659913,-117.8103
 67538.0,Wever Solar (150MW),40.734563,-91.27675
 67571.0,NY Newark St Rt 31 - Environomics S1,43.03497,-77.14838
+67579.0,AES ES Alamitos 2 LLC,33.770287,-118.1
 67582.0,Collins (NY),43.27,-75.19
 67586.0,NY Newark ST RT 31 - Environomics S2,43.033056,-77.14639
 67599.0,NY ALTONA MAYOTT - Environomics P1,44.878445,-73.58349
@@ -26796,22 +26692,18 @@ plant_id,plant_name,latitude,longitude
 67696.0,Twin Lakes Solar LLC,40.71542,-86.77581
 67699.0,Osage City Solar,38.6512,-95.82813
 67713.0,IL Joliet 1101 Cherry Hl Rd,41.507951,-88.02602
-67715.0,Vermilion Solar II LLC,42.337,-89.0829
-67716.0,Vermilion Solar I LLC,40.858134,-88.60202
-67717.0,Triple S Solar I LLC,39.540291,-87.97652
-67718.0,"AES Bend Solar II, LLC",42.33787,-89.08264
-67719.0,"AES Bend Solar I, LLC",42.336378,-89.08286
 67736.0,Silver Peak,35.831084,-114.9924
 67736.0,Silver Peak,35.831084,-114.9924
 67736.0,Silver Peak,35.831084,-114.9924
 67747.0,Nachtigall 1836-WD,35.608721,-119.3258
 67748.0,Terry 1818-WD,35.607804,-119.3288
 67749.0,Pistachio Road 1726-WD,35.70789,-119.8917
-2038.0,Cambridge CT Hybrid,45.601,-93.2081
+67758.0,Slocum Energy Storage,42.123049,-83.18739
+67771.0,Valley Sun Solar,47.31,-68.164
+67794.0,City of Atwater NEM,37.274,-120.629
+67843.0,Farmersville West,33.179521,-96.49298
+67845.0,Junction BESS,30.516525,-99.76764
 6566.0,Bethel,60.7897,-161.7878
-52148.0,Elkton,38.3836,-78.6528
-56090.0,Blacksand Generating Facility,33.9328,-117.855
-56090.0,Blacksand Generating Facility,33.9328,-117.855
 56895.0,Ameresco Ox Mountain,37.5,-122.4
 57771.0,Ameresco Butte County,39.674,-121.73
 58422.0,CSU Northridge Plant,34.243333,-118.5306
@@ -26836,23 +26728,29 @@ plant_id,plant_name,latitude,longitude
 63541.0,Solar Carver 1 Hybrid,41.824474,-70.75292
 63676.0,Spencer Solar,42.260723,-72.0156
 63677.0,Sturbridge Road Solar,42.174611,-72.01786
-63798.0,Atlas,33.94345,-113.7917
-63798.0,Atlas,33.94345,-113.7917
 63828.0,Hardin Solar Energy II LLC,40.632486,-83.79238
 64094.0,"Barbers Point Solar, LLC",21.323,-158.046
 64094.0,"Barbers Point Solar, LLC",21.323,-158.046
 64161.0,SR Litchfield,41.793735,-73.16701
 64255.0,Vonore Battery Energy Storage System,35.61543,-84.27489
 64452.0,Calhoun County Solar Project,42.254,-84.813
+64529.0,OE_MS5,33.418888,-88.61888
+64529.0,OE_MS5,33.418888,-88.61888
 64534.0,Darien Solar,42.62,-88.74
-64615.0,"Sanford ESS, LLC",43.407648,-70.71209
-64616.0,"South Portland ESS, LLC",43.622939,-70.33098
+64547.0,Turtle Creek,41.092238,-96.16831
+64547.0,Turtle Creek,41.092238,-96.16831
+64548.0,Standing Bear Lake,41.315814,-96.09392
+64548.0,Standing Bear Lake,41.315814,-96.09392
+64548.0,Standing Bear Lake,41.315814,-96.09392
+64548.0,Standing Bear Lake,41.315814,-96.09392
+64548.0,Standing Bear Lake,41.315814,-96.09392
+64548.0,Standing Bear Lake,41.315814,-96.09392
+64548.0,Standing Bear Lake,41.315814,-96.09392
+64548.0,Standing Bear Lake,41.315814,-96.09392
+64548.0,Standing Bear Lake,41.315814,-96.09392
 64633.0,Rexford Solar Farm,35.840479,-119.0827
 64633.0,Rexford Solar Farm,35.840479,-119.0827
 64744.0,Turkey Creek Solar Project,38.382137,-104.9141
-64758.0,Manorville II,40.834,-72.7819
-64758.0,Manorville II,40.834,-72.7819
-64761.0,Patchogue ESS,40.783,-73.01634
 64767.0,Pigeon Run Solar Project,37.158473,-79.05564
 64768.0,Zenith Solar,36.817763,-79.23328
 64864.0,Chaparral Springs,34.870764,-118.3195
@@ -26861,13 +26759,15 @@ plant_id,plant_name,latitude,longitude
 64864.0,Chaparral Springs,34.870764,-118.3195
 65046.0,FedEx Middletown,41.597231,-72.71934
 65293.0,OE_MS4,31.4395,-89.4846
-65302.0,Salt City Solar Project - Hybrid,39.41473,-82.96285
-65304.0,ENGIE Solidago Solar Project - Hybrid,39.395187,-75.7535
-65305.0,Powells Creek Solar - Hybrid,36.55467,-79.0286
-65307.0,Sunnybrook Solar Project - Hybrid,36.798717,-78.83961
 65403.0,Boswell Wind,41.919,-105.869
 65445.0,Ridgely Energy Farm,36.306319,-89.46202
 65482.0,"West Memphis Solar, LLC",35.15689,-90.31048
+65488.0,Crockett,31.377355,-95.47908
+65489.0,Dickens,33.781077,-100.8832
+65490.0,Hydra,30.992905,-102.2895
+65491.0,Paleo,33.889462,-101.8016
+65492.0,Pavo,30.885123,-102.4226
+65493.0,Tortolas,29.432362,-95.2507
 65588.0,Antlia,29.806021,-100.8045
 65589.0,Carina,27.81922,-97.53546
 65644.0,Lumina II Solar Project,32.883528,-100.7464
@@ -26878,24 +26778,27 @@ plant_id,plant_name,latitude,longitude
 65870.0,Castor,29.150279,-95.65118
 65876.0,Desna,29.063305,-95.73543
 65880.0,Zeya,29.388758,-94.94793
-65897.0,Industrial Parkway Storage,34.907345,-120.4465
+65896.0,Gallaudet Uni Community Solar,38.90724,-76.99372
+65940.0,Shasta College PH2 Solar Project,40.62524,-122.314
+65940.0,Shasta College PH2 Solar Project,40.62524,-122.314
 65967.0,Paris Solar,42.662069,-88.01553
 65981.0,Second Division Solar,29.170545,-95.74157
 65998.0,"True North Solar, LLC",31.468564,-96.79417
 66041.0,Eureka South Solar,43.13071,-75.41617
 66042.0,Eureka North Solar,43.12887,-75.41637
+66117.0,"HCE Millboro Springs Solar, LLC",37.99997,-79.56874
+66118.0,"HCE Moran Solar, LLC",37.229858,-78.27129
+66120.0,"HCE Reams Solar, LLC",37.09028,-77.48346
+66121.0,"HCE Red House Solar, LLC",37.18378,-78.81415
+66122.0,"HCE Roark Mill Solar, LLC",37.05622,-79.3051
 66155.0,Ponderosa Wind II,36.589452,-100.8037
+66167.0,AM Wind Repower LLC,33.943741,-116.6615
 66173.0,SR Ailey,32.193594,-82.53874
 66191.0,Maple Flats,38.748461,-88.54686
-66294.0,Alamo 4 BESS,29.325033,-100.3918
-66295.0,Alamo 5 BESS 1,29.225956,-99.70028
-66296.0,Alamo 5 BESS 2,29.21997,-99.74638
 66495.0,Magruder Solar,41.602936,-74.1377
 66519.0,TX Pasadena 10585 Red Bluff Road Solar,29.614979,-95.07023
 66520.0,TX Sunnyvale 367 Long Creek Road Solar,32.77442,-96.56668
 66525.0,NY Fredonia 9824 Route 60 Solar,42.431064,-79.30247
-66551.0,EnerSmart Imperial Beach BESS,32.583468,-117.0968
-66551.0,EnerSmart Imperial Beach BESS,32.583468,-117.0968
 66629.0,"Envoy Solar, LLC",39.156733,-91.84798
 66630.0,"RIchland Township Solar, LLC",40.935947,-89.28789
 66642.0,"Kiowa County Solar Project, LLC",34.669592,-98.96231
@@ -26915,10 +26818,12 @@ plant_id,plant_name,latitude,longitude
 66921.0,English Creek Solar,27.945756,-82.06723
 66951.0,Scarlet II Hybrid,36.60369,-120.3757
 66951.0,Scarlet II Hybrid,36.60369,-120.3757
+66980.0,Bartow Davidson,34.25745,-84.83149
 67007.0,"Cardinal Solar, LLC",41.34002,-79.72372
 67013.0,Dynamic - Leeds Solar,44.288243,-70.1139
 67038.0,"Quartz Solar, LLC",35.20851,-90.7912
 67069.0,IPC 25 Solar,37.739193,-121.5369
+67118.0,Santee BESS,32.854918,-116.9684
 67125.0,"SR Christiana, LLC",35.700485,-86.36604
 67126.0,"SR Albany, LLC",36.243794,-82.90936
 67127.0,"SR Toombs, LLC",32.294555,-82.41625
@@ -26931,8 +26836,10 @@ plant_id,plant_name,latitude,longitude
 67141.0,Kendall DG Solar,43.328613,-78.07082
 67164.0,"SR Warren, LLC",36.71168,-86.54856
 67165.0,Unbridled Solar,37.652,-87.552
+67166.0,Fayette Solar,39.383,-83.4
 67167.0,Louise Solar,43.562,-92.683
 67168.0,Fillmore County Solar Project,43.552,-92.357
+67169.0,Bear Creek Solar (CA),37.919197,-122.1863
 67182.0,Tupelo Solar,29.603731,-81.52725
 67193.0,Anticline Wind,43.146077,-106.3473
 67203.0,Bullfrog Creek Solar,27.660584,-82.29563
@@ -26954,14 +26861,16 @@ plant_id,plant_name,latitude,longitude
 67321.0,Yuma Solar + Storage,32.642434,-114.4292
 67322.0,Mamm Creek,39.5266,-107.698
 67322.0,Mamm Creek,39.5266,-107.698
-67391.0,KE73,39.2348,-75.56284
 67393.0,Livingston Crossing,38.69686,-76.97816
+67396.0,Mechanic Street,46.6837,-68.0382
+67398.0,Missile Street,46.7057,-68.0441
 67411.0,Exeter Mail,41.53216,-71.5597
+67413.0,Geer Road Solar 3,43.354,-73.571
 67415.0,County Highway Solar 1,42.992,-74.313
 67416.0,County Highway Solar 2,42.993,-74.311
 67424.0,Hopkins Energy LLC,33.21732,-95.4621
-67425.0,"Century Oak Wind Project, LLC",32.428686,-99.15911
 67428.0,BRNG Nicolin,44.620776,-68.50923
+67437.0,North Woods,44.6177,-75.1622
 67502.0,Oliver Wind IV,47.124272,-101.6124
 67537.0,Duane Arnold Solar II (150MW),42.104396,-91.78258
 67539.0,Nortera Customer Hosted Solar,43.736243,-88.86204
@@ -26974,8 +26883,10 @@ plant_id,plant_name,latitude,longitude
 67685.0,Schmidt CSG 1,38.48756,-89.95162
 67686.0,DeKalb Taylor LLC,41.934706,-88.71142
 67698.0,Coffee Creek BESS,45.341676,-122.7815
-67700.0,Peyton Creek Wind Farm II,28.896781,-95.86518
 67712.0,Constable BESS,45.559046,-122.9437
+67716.0,Vermilion Solar I LLC,40.858134,-88.60202
+67718.0,"AES Bend Solar II, LLC",42.33787,-89.08264
+67719.0,"AES Bend Solar I, LLC",42.336378,-89.08286
 67724.0,Antigo-Forrest Street Solar Project,45.123935,-89.17536
 67725.0,"Auburn Solar WI, LLC",43.599344,-88.23868
 67727.0,"Caledonia Solar WI, LLC",42.797719,-87.96506
@@ -26984,6 +26895,10 @@ plant_id,plant_name,latitude,longitude
 67731.0,"Raymond Solar WI, LLC",42.762565,-88.05788
 67737.0,SMT Ironman Battery Storage Plant,29.45566,-95.31001
 67750.0,Kern Sunset 1886-WD,35.220668,-118.9089
+67769.0,Rock Creek Wind,41.58263,-106.0773
+67786.0,Hickory Solar,39.133126,-90.36602
+67802.0,French Road Solar,46.637,-68.393
+67842.0,ME Fort Fairfield Solar Plant,46.694517,-67.9695
 10287.0,Beowawe,40.5547,-116.6175
 62797.0,Bluebird Solar LLC,38.299894,-84.38349
 63507.0,Bakeoven Solar,45.131793,-120.8807
@@ -26991,6 +26906,7 @@ plant_id,plant_name,latitude,longitude
 65072.0,Fremont CA AutoFactory,37.49254,-121.9446
 65635.0,Hecate Energy Desert Storage 1 LLC,33.8079,-116.494
 65733.0,Carris Storage I,33.8079,-116.494
+65897.0,Industrial Parkway Storage,34.907345,-120.4465
 65912.0,Big Water,27.44193,-80.80183
 65913.0,Speckled Perch,27.278413,-80.80238
 65914.0,Redlands,25.542897,-80.54673
@@ -27002,20 +26918,14 @@ plant_id,plant_name,latitude,longitude
 65922.0,Holopaw,26.77617,-80.41104
 66286.0,Peregrine Energy Storage LLC,32.692425,-117.1366
 66364.0,"Cobalt Solar, LLC",41.39915,-79.39588
-66560.0,Wheatridge East Wind,45.542649,-119.3822
 66624.0,Double Back Diamond,39.53729,-89.80978
 66641.0,Lake Mabel Storage,27.976677,-81.60907
 66687.0,"Graceland Solar, LLC",35.309415,-89.86646
-66755.0,EnerSmart Murray BESS,32.78998,-117.0228
-66755.0,EnerSmart Murray BESS,32.78998,-117.0228
-66755.0,EnerSmart Murray BESS,32.78998,-117.0228
-66755.0,EnerSmart Murray BESS,32.78998,-117.0228
-66755.0,EnerSmart Murray BESS,32.78998,-117.0228
-66755.0,EnerSmart Murray BESS,32.78998,-117.0228
 67033.0,3715 Oxford RD,43.039,-75.283
 67254.0,Stockbridge,43.01082,-75.6068
 67265.0,CHP Plant,38.92033,-77.021
 67320.0,Russell,38.893806,-98.79419
+67360.0,Hat Creek Bioenergy,40.987783,-121.6225
 67589.0,NY Evans 7690 SW Blvd - SL Evans Array 1,42.680833,-78.9525
 67590.0,NY Evans 7690 SW Blvd - SL Evans Array 2,42.678611,-78.95417
 67623.0,"Lilly Pond Road Solar 1, LLC",42.27654,-88.38677
@@ -27023,10 +26933,15 @@ plant_id,plant_name,latitude,longitude
 67673.0,Swallowtail,30.92362,-86.23106
 67704.0,Rock County Customer Hosted Solar,42.72317,-89.02271
 67705.0,Janesville Community Solar,42.723717,-89.02271
+62729.0,Painter Energy Storage,34.41,-119.515
 63907.0,Panther Creek Wind Project,39.62055,-90.87612
 64859.0,"IP Radian, LLC",31.5481,-99.1872
 65657.0,"San Jacinto Grid, LLC",33.92295,-116.8735
+66294.0,Alamo 4 BESS,29.325033,-100.3918
+66295.0,Alamo 5 BESS 1,29.225956,-99.70028
+66296.0,Alamo 5 BESS 2,29.21997,-99.74638
 66640.0,Wimauma Storage,27.73525,-82.27925
+66748.0,IMPA Richmond 8 Solar Park,39.82229,-84.95008
 66871.0,"GulfStar Power, LLC",29.191296,-95.96752
 66871.0,"GulfStar Power, LLC",29.191296,-95.96752
 66905.0,Ables Springs Solar & Storage,32.819566,-96.18484
@@ -27034,8 +26949,9 @@ plant_id,plant_name,latitude,longitude
 66959.0,CPA Wilmington 1,33.82294,-118.2456
 67039.0,"Northern Orchard Solar PV, LLC",35.120183,-119.279
 67039.0,"Northern Orchard Solar PV, LLC",35.120183,-119.279
-67664.0,Soleil,33.799253,-98.04552
 67684.0,SV CSG Bishop 1 LLC,37.79441,-89.04892
+67700.0,Peyton Creek Wind Farm II,28.896781,-95.86518
+67847.0,Moscow,45.146586,-69.86814
 10025.0,"RED-Rochester, LLC",43.1989,-77.6319
 57881.0,Pioneer Generation Station,48.2325,-103.9528
 57881.0,Pioneer Generation Station,48.2325,-103.9528
@@ -27046,19 +26962,17 @@ plant_id,plant_name,latitude,longitude
 61169.0,"Eland Solar & Storage Center, Phase 2 Hybrid",35.2167,-117.977
 61169.0,"Eland Solar & Storage Center, Phase 2 Hybrid",35.2167,-117.977
 61912.0,McGinness Hills 3,39.5963,-116.8942
+63093.0,Vineyard Wind 1,41.047111,-70.48738
+63508.0,Camino Solar Hybrid,34.93031,-118.4432
 65445.0,Ridgely Energy Farm,36.306319,-89.46202
 65656.0,"Ortega Grid, LLC",33.68354,-117.3284
 65807.0,"SloughHouse Solar, LLC",38.467619,-121.1845
-66337.0,Tidwell Prairie Storage 1,31.09828,-96.66368
 66340.0,Canyonville Solar LLC (CSG),42.956886,-123.2618
 66352.0,Longleaf Pine Solar LLC,35.97964,-80.45767
 66356.0,Williams Solar LLC,35.27917,-78.3704
-66400.0,Bexar ESS,29.271,-98.456
 66475.0,CA Bloomington 2551 S Lilac Avenue Micro,34.05523,-117.3778
 66475.0,CA Bloomington 2551 S Lilac Avenue Micro,34.05523,-117.3778
-66552.0,EnerSmart Mesa Heights Sub Station,32.82412,-117.1513
-66748.0,IMPA Richmond 8 Solar Park,39.82229,-84.95008
-66754.0,EnerSmart El Cajon BESS,32.80417,-116.9255
+66560.0,Wheatridge East Wind,45.542649,-119.3822
 66838.0,Aspen Road Solar,40.150905,-77.76381
 66860.0,Marion County Solar Project,40.624518,-83.13615
 66892.0,"CES Electron Farm One, LLC",36.6281,-120.5708
@@ -27071,15 +26985,19 @@ plant_id,plant_name,latitude,longitude
 67647.0,Kinglet,38.350511,-77.47619
 67675.0,Northumberland Solar I,40.987206,-76.83401
 67710.0,TAG,35.271663,-106.8625
+67710.0,TAG,35.271663,-106.8625
+67717.0,Triple S Solar I LLC,39.540291,-87.97652
 67722.0,WPWP,37.283916,-97.21513
+67789.0,Tres Margaritas Solar,28.604773,-99.46934
+67830.0,Jericho Gravel Solar Farm,44.479,-72.96
+67831.0,Jericho Landfill Solar Farm,44.448462,-72.97741
+67844.0,Hidden Lakes,29.491904,-95.0332
 1024.0,Crawfordsville Power Plant,40.048889,-86.8992
 65463.0,Hornet Solar (TX),34.485162,-101.9714
 65849.0,Oriana Solar LLC,28.905346,-96.97808
-65889.0,"Nighthawk Energy Storage, LLC",32.933958,-117.038
 65891.0,"Talitha Energy Project, LLC",27.918286,-97.98045
 65979.0,Peregrine Solar,28.4279,-97.4544
-66066.0,AES Waiawa Phase 2 Solar,21.43026,-157.9779
-66066.0,AES Waiawa Phase 2 Solar,21.43026,-157.9779
+66400.0,Bexar ESS,29.271,-98.456
 66511.0,CA Riverside 2356 Fleetwood Dr.,34.012142,-117.3811
 66511.0,CA Riverside 2356 Fleetwood Dr.,34.012142,-117.3811
 66648.0,"Blackwell Test Facility, LLC",35.618402,-119.8407
@@ -27087,14 +27005,20 @@ plant_id,plant_name,latitude,longitude
 66842.0,Jones Farm Solar,39.232046,-75.77228
 66957.0,CPA 2132 E Dominguez,33.83783,-118.2312
 67088.0,"Amite Solar, LLC",30.797686,-90.53944
+67391.0,KE73,39.2348,-75.56284
 67454.0,Scatter Wash 1,33.71264,-112.082
-67498.0,McFarland C,32.946009,-113.4916
 67591.0,NV - Nokomis - CHI,36.789704,-114.1375
 67671.0,MD BALTIMORE 4851 HOLABIRD AVE,39.269522,-76.55351
 67679.0,NY FONDA 182 BOSHART RD - Montgomery 1,42.965485,-74.37945
 67680.0,Kola Energy Center,37.709773,-121.5553
 67683.0,SV CSG Plato Solar 1 LLC,42.039337,-88.42313
 67734.0,Silver State South Storage,35.633135,-115.3442
+67757.0,Polaris Solar Park,43.207524,-84.52912
+67828.0,Mordor ES1,36.008507,-117.8141
+67829.0,Mordor ES2,36.0088,-117.8148
+67850.0,Arrowleaf Solar and Storage,33.0157,-115.5129
+67850.0,Arrowleaf Solar and Storage,33.0157,-115.5129
+67851.0,Montague Energy Storage,41.2785,-74.79835
 160.0,Apache Station,32.0603,-109.8931
 160.0,Apache Station,32.0603,-109.8931
 6137.0,A B Brown,37.9053,-87.715
@@ -27106,58 +27030,58 @@ plant_id,plant_name,latitude,longitude
 64636.0,Big Rock Solar Farm,32.733421,-115.7137
 65019.0,Beaver Creek Wind Facility,45.956,-109.497
 65019.0,Beaver Creek Wind Facility,45.956,-109.497
-65019.0,Beaver Creek Wind Facility,45.956,-109.497
-65019.0,Beaver Creek Wind Facility,45.956,-109.497
 65849.0,Oriana Solar LLC,28.905346,-96.97808
+65889.0,"Nighthawk Energy Storage, LLC",32.933958,-117.038
 65941.0,"Rocking R Solar, LLC",32.883965,-93.8833
+65967.0,Paris Solar,42.662069,-88.01553
 66002.0,AES Mountain View Solar,21.45799,-158.1767
 66002.0,AES Mountain View Solar,21.45799,-158.1767
-66107.0,"Blue Elk I Solar, LLC",41.919,-83.996
 66301.0,Peregrine BESS 1,28.430335,-97.45238
 66302.0,Peregrine BESS 2,28.430335,-97.45238
-66390.0,MRG Goody Solar Project Hybrid,33.639193,-95.62905
-66390.0,MRG Goody Solar Project Hybrid,33.639193,-95.62905
-66510.0,CA Moss Landing 3040 Hilltop Rd,36.864882,-121.7767
-66510.0,CA Moss Landing 3040 Hilltop Rd,36.864882,-121.7767
+66337.0,Tidwell Prairie Storage 1,31.09828,-96.66368
 66779.0,Papago Energy Storage,33.48355,-113.0378
 66780.0,Posey Solar,37.926667,-87.72889
 66937.0,IMPA Tipton 2 Solar Park,40.292989,-86.05978
 66938.0,IMPA Veedersburg Solar Park,40.10936,-87.24235
 67005.0,Magnolia Power,30.252559,-91.16444
 67022.0,CPV Backbone Solar,39.442372,-79.20164
-67443.0,Lane City Wind,29.209729,-96.0296
 67455.0,Scatter Wash 2,33.712234,-112.082
 67474.0,Harquahala 2,33.46,-113.11
 67474.0,Harquahala 2,33.46,-113.11
+67498.0,McFarland C,32.946009,-113.4916
 67598.0,Desert Willow Energy Storage,32.452281,-97.07263
 67643.0,Solitude,41.130185,-89.04407
 67644.0,Towanda,40.434241,-89.06233
 67645.0,Varnsen,40.434241,-89.06233
 67702.0,Creston School Customer Hosted Solar,41.073246,-94.37424
 67703.0,Grinnell Customer Hosted Solar,41.74614,-97.74071
+67715.0,Vermilion Solar II LLC,42.337,-89.0829
 67740.0,Anole Energy Storage,32.552083,-96.53993
+2038.0,Cambridge CT Hybrid,45.601,-93.2081
 2185.0,Hauser,46.765941,-111.8873
 52021.0,ITT Cogen Facility,41.83442,-87.62847
 52021.0,ITT Cogen Facility,41.83442,-87.62847
+52148.0,Elkton,38.3836,-78.6528
+56090.0,Blacksand Generating Facility,33.9328,-117.855
+56090.0,Blacksand Generating Facility,33.9328,-117.855
 59596.0,Rhubarb One SC,34.151111,-79.41
 61364.0,Hu Honua Bioenergy Facility,19.843504,-155.0871
 61910.0,Yeoman Creek,42.391136,-87.84941
 63846.0,Raceway Solar,38.909956,-75.58819
 63911.0,MEC North,42.233559,-84.96234
 63912.0,MEC South,42.237103,-84.95915
-64913.0,Sandy Creek Solar,43.812826,-76.06884
 65139.0,Woodstock Solar One,41.923166,-71.9614
 65310.0,Renegade Solar Project (Dawn),34.913,-102.2706
 65338.0,Union Ridge Solar,39.984126,-82.6413
 65396.0,Black Walnut Energy Storage LLC,34.35758,-119.0573
 65480.0,Axial Basin Solar,40.327892,-107.7533
 65572.0,Muskegon Solar,43.232797,-85.99345
-65703.0,Humidor Storage I,34.29116,-118.7518
 65894.0,OCI Stillhouse Solar,30.967591,-97.16511
 65997.0,Powell Creek Solar,41.092921,-84.11612
-66216.0,Yaupon Solar Project (Hybrid),31.0444,-96.8514
-66216.0,Yaupon Solar Project (Hybrid),31.0444,-96.8514
-66314.0,Bookers Mill Solar,37.86,-76.56
+66066.0,AES Waiawa Phase 2 Solar,21.43026,-157.9779
+66066.0,AES Waiawa Phase 2 Solar,21.43026,-157.9779
+66510.0,CA Moss Landing 3040 Hilltop Rd,36.864882,-121.7767
+66510.0,CA Moss Landing 3040 Hilltop Rd,36.864882,-121.7767
 66601.0,NRG THW GT Electric Generating Station,29.943892,-95.53125
 66601.0,NRG THW GT Electric Generating Station,29.943892,-95.53125
 66774.0,Ash Creek Solar,31.900806,-97.03373
@@ -27168,6 +27092,7 @@ plant_id,plant_name,latitude,longitude
 67124.0,"SR Blount, LLC",35.76013,-84.00258
 67291.0,Sun Streams 4,33.361282,-112.7801
 67291.0,Sun Streams 4,33.361282,-112.7801
+67443.0,Lane City Wind,29.209729,-96.0296
 67497.0,"Hornshadow Solar, LLC",39.182429,-110.9772
 67497.0,"Hornshadow Solar, LLC",39.182429,-110.9772
 67503.0,Serrano,32.502375,-111.3037
@@ -27180,39 +27105,30 @@ plant_id,plant_name,latitude,longitude
 67575.0,TX Nazareth Solar,34.49,-101.97
 67626.0,Trenton East,38.58227,-89.69124
 67627.0,Trenton West,38.582268,-89.70044
-67678.0,White Tail Solar,42.125582,-83.65358
 67711.0,Seaside BESS,45.615304,-122.7811
-3291.0,Parr GT,34.2642,-81.3308
-3291.0,Parr GT,34.2642,-81.3308
+67752.0,Fort Duncan BESS,28.69954,-100.4035
 6481.0,Intermountain Power Project,39.509731,-112.5802
 6481.0,Intermountain Power Project,39.509731,-112.5802
 55027.0,Papillion Creek Wastewater,41.0772,-95.87
 55027.0,Papillion Creek Wastewater,41.0772,-95.87
-63202.0,TREX US Red Holly,32.952,-101.737
-63806.0,"West River Solar, LLC",36.043671,-79.64174
 65070.0,Austin TX GigaFactory,30.22021,-97.61968
 65349.0,"Mulligan Solar, LLC",40.09393,-89.4204
 65507.0,Verizon Comms Garage Top Solar Project,37.354492,-121.9315
 65710.0,Putnam Meadow Solar Station,41.902261,-71.91154
-65844.0,Flag City Solar,28.992798,-96.3709
-65852.0,Lunis Creek Solar and BESS SLF,28.916089,-96.38422
-65852.0,Lunis Creek Solar and BESS SLF,28.916089,-96.38422
-65855.0,Tehuacana Creek 1 Solar and BESS,31.914062,-96.41347
-65855.0,Tehuacana Creek 1 Solar and BESS,31.914062,-96.41347
 65901.0,Hatchery Solar,42.976583,-77.76974
-66399.0,OCI Lone Sun,31.54,-97.409
-66484.0,"Glen Canyon Solar A, LLC",37.091539,-111.7255
+66107.0,"Blue Elk I Solar, LLC",41.919,-83.996
 66920.0,South Tampa Resiliency Project,27.863347,-82.51738
 66920.0,South Tampa Resiliency Project,27.863347,-82.51738
 66920.0,South Tampa Resiliency Project,27.863347,-82.51738
 66920.0,South Tampa Resiliency Project,27.863347,-82.51738
-67034.0,NY SHERMAN 176 W MAIN ST - SL 1,42.156051,-79.60161
 67215.0,"Sun Ridge Solar, LLC",38.314898,-78.74463
 67445.0,Logan City 2,41.69976,-111.8598
 67445.0,Logan City 2,41.69976,-111.8598
 67614.0,"Dakota Solar 1, LLC",42.39271,-89.53531
 67639.0,Leatherleaf,43.048657,-78.03491
 67650.0,Bear Ridge,43.14244,-78.79106
+67764.0,Rosamond South 1,34.842496,-118.3785
+67764.0,Rosamond South 1,34.842496,-118.3785
 62726.0,"Victorville Energy Center, LLC (CA)",34.622811,-117.0993
 64234.0,Hecate Energy Harley Hand Solar LLC,32.468537,-100.2164
 65513.0,Baron Winds II,42.43988,-77.52982
@@ -27241,6 +27157,8 @@ plant_id,plant_name,latitude,longitude
 67445.0,Logan City 2,41.69976,-111.8598
 67445.0,Logan City 2,41.69976,-111.8598
 67692.0,Sundance Renewable Energy Center,30.266826,-83.29554
+67780.0,Itsee Solar,32.065944,-96.21942
+67797.0,Babacomari Solar,31.656605,-110.4134
 59969.0,"Windhub Solar B, LLC",35.0133,-118.2698
 61321.0,Biggs Ford Solar Center,39.4829,-77.3757
 61796.0,LeGore Bridge Solar Center,39.572402,-77.30787
@@ -27248,16 +27166,20 @@ plant_id,plant_name,latitude,longitude
 64904.0,Elliot Solar LLC,38.316297,-87.42793
 65019.0,Beaver Creek Wind Facility,45.956,-109.497
 65019.0,Beaver Creek Wind Facility,45.956,-109.497
-65019.0,Beaver Creek Wind Facility,45.956,-109.497
-65019.0,Beaver Creek Wind Facility,45.956,-109.497
 65344.0,Noria Hondo Solar (Hybrid),27.553355,-97.67528
 65344.0,Noria Hondo Solar (Hybrid),27.553355,-97.67528
 65500.0,Revolution Wind,41.15217,-71.07783
 65931.0,Clear View Solar,42.57062,-77.46378
+66314.0,Bookers Mill Solar,37.86,-76.56
 66844.0,Spring Grove Solar 2,37.16738,-76.92423
 66901.0,Wylie Ridge Solar,40.452683,-80.57255
 67076.0,Flat Fork Solar,34.882829,-91.10409
 67184.0,Beehive Energy Storage,33.8004,-112.2725
+67769.0,Rock Creek Wind,41.58263,-106.0773
+67772.0,Braswell Solar,31.34904,-97.21786
+67781.0,Lampe Solar,30.310524,-96.47887
+67783.0,Ventures BESS,28.974482,-95.99381
+67848.0,Luna Valley,36.592419,-120.4031
 50736.0,Pure Hedge LLC,41.712448,-71.82225
 50736.0,Pure Hedge LLC,41.712448,-71.82225
 58151.0,Central Utility Plant - Texas A&M,30.617778,-96.34333
@@ -27265,6 +27187,7 @@ plant_id,plant_name,latitude,longitude
 61967.0,Norton Solar Farm,31.534768,-100.1138
 62263.0,Saddle Mountain East Wind Farm,46.789,-119.346
 63386.0,"Three Rivers Solar Power, LLC",44.711644,-68.11
+63806.0,"West River Solar, LLC",36.043671,-79.64174
 64131.0,Forest Grove - Dodd,32.2515,-95.9568
 64215.0,Aratina Solar Center 2,35.062965,-118.0878
 64215.0,Aratina Solar Center 2,35.062965,-118.0878
@@ -27287,6 +27210,7 @@ plant_id,plant_name,latitude,longitude
 67328.0,Pluto Energy Storage,33.409631,-112.4116
 67528.0,Milagro Solar I,31.796,-106.642
 67528.0,Milagro Solar I,31.796,-106.642
+67678.0,White Tail Solar,42.125582,-83.65358
 58997.0,SRF Pulp Processing Facility,26.588056,-80.98111
 59806.0,Jayhawk,32.290724,-100.8657
 61167.0,Aratina Solar Center 1 Hybrid,34.987952,-117.5716
@@ -27296,6 +27220,7 @@ plant_id,plant_name,latitude,longitude
 65149.0,East Windsor Solar Two,41.894366,-72.53211
 65709.0,Turner Meadow Solar Station,44.229478,-70.28027
 66132.0,Trinity River Solar 1,30.010255,-94.48631
+66552.0,EnerSmart Mesa Heights Sub Station,32.82412,-117.1513
 66559.0,Jones City 1 Solar,32.781168,-100.0065
 66697.0,Branch Solar Project,41.883487,-85.0733
 66843.0,Morgnec Solar,39.2299,-76.0525
@@ -27305,6 +27230,9 @@ plant_id,plant_name,latitude,longitude
 67342.0,Carvers Creek Solar,37.56189,-76.60537
 67669.0,Arlington Battery Energy Storage System,48.15617,-122.1437
 67691.0,Kern Front,35.514246,-119.041
+67834.0,Great Bend Solar Project,38.55,-81.46
+3291.0,Parr GT,34.2642,-81.3308
+3291.0,Parr GT,34.2642,-81.3308
 57679.0,Arlington Valley Solar Energy I,33.321667,-112.8806
 58175.0,Jawbone Wind Project,46.508056,-109.7278
 58639.0,KRS I Anahola Solar Hybrid,22.131667,-159.3031
@@ -27314,19 +27242,11 @@ plant_id,plant_name,latitude,longitude
 58903.0,Marseilles Lock and Dam Hydro,41.327778,-88.70111
 58903.0,Marseilles Lock and Dam Hydro,41.327778,-88.70111
 58903.0,Marseilles Lock and Dam Hydro,41.327778,-88.70111
-58931.0,FGE Texas I,32.308611,-101.0261
-58931.0,FGE Texas I,32.308611,-101.0261
-58931.0,FGE Texas I,32.308611,-101.0261
 59971.0,Easter,34.668882,-102.3517
 60272.0,"Cone Renewable Energy Project, LLC",33.8093,-101.3424
 60273.0,"Crosby County Wind Farm, LLC",33.713671,-101.4338
 60642.0,M&G Resins USA,27.833756,-97.49652
 60642.0,M&G Resins USA,27.833756,-97.49652
-61592.0,Cody Road Wind Farm,42.967145,-75.75592
-61592.0,Cody Road Wind Farm,42.967145,-75.75592
-61592.0,Cody Road Wind Farm,42.967145,-75.75592
-61592.0,Cody Road Wind Farm,42.967145,-75.75592
-61592.0,Cody Road Wind Farm,42.967145,-75.75592
 61687.0,Plum Creek,44.14504,-95.38272
 62437.0,Dodge County Wind,44.005633,-92.95039
 62494.0,Skeleton Creek Energy Center Hybrid,36.521428,-98.03436
@@ -27343,9 +27263,10 @@ plant_id,plant_name,latitude,longitude
 63088.0,Rooney Ranch,37.737366,-121.6521
 63096.0,Horseshoe Solar Energy,42.570762,-77.45296
 63126.0,Sand Hill A,37.743809,-121.6078
-63567.0,Westminister NC,35.452,-81.919
 63652.0,Sand Hill B,37.755007,-121.5968
 63653.0,Sand Hill C,37.769695,-121.5961
+63798.0,Atlas,33.94345,-113.7917
+63798.0,Atlas,33.94345,-113.7917
 63818.0,"Panther Grove Wind, LLC",40.7129,-89.1706
 63850.0,Cherry,36.122457,-119.9232
 63851.0,Grape,36.145687,-119.9051
@@ -27364,8 +27285,14 @@ plant_id,plant_name,latitude,longitude
 64163.0,Hecate Energy Cider Solar LLC,43.097336,-78.23041
 64210.0,Bellefield Solar and Energy Storage Farm,35.062965,-118.0878
 64210.0,Bellefield Solar and Energy Storage Farm,35.062965,-118.0878
+64346.0,Highland Solar South,27.2664,-81.4082
 64541.0,Potic Solar,42.29559,-73.9012
 64543.0,Cedar Creek Solar,39.37259,-75.56455
+64615.0,"Sanford ESS, LLC",43.407648,-70.71209
+64616.0,"South Portland ESS, LLC",43.622939,-70.33098
+64758.0,Manorville II,40.834,-72.7819
+64758.0,Manorville II,40.834,-72.7819
+64761.0,Patchogue ESS,40.783,-73.01634
 64850.0,"Wilkes Solar, LLC",36.169,-81.042
 64857.0,Coyote Gulch Solar,37.431,-108.724
 65045.0,Emery Shute Solar One,44.535591,-68.86433
@@ -27373,8 +27300,11 @@ plant_id,plant_name,latitude,longitude
 65141.0,Boulder Solar III LLC,35.838769,-114.9642
 65141.0,Boulder Solar III LLC,35.838769,-114.9642
 65148.0,Dollar Tree Solar One,41.912111,-72.72139
-65181.0,CSP Solano,38.317858,-121.9767
 65286.0,Caden Energix Piney River LLC,37.696818,-79.02306
+65302.0,Salt City Solar Project - Hybrid,39.41473,-82.96285
+65304.0,ENGIE Solidago Solar Project - Hybrid,39.395187,-75.7535
+65305.0,Powells Creek Solar - Hybrid,36.55467,-79.0286
+65307.0,Sunnybrook Solar Project - Hybrid,36.798717,-78.83961
 65326.0,Sunset Solar,45.165062,-120.8804
 65327.0,Wheeler Center Solar Park,42.220271,-83.71442
 65401.0,Newton Solar BESS LLC,38.9361,-88.2781
@@ -27398,6 +27328,8 @@ plant_id,plant_name,latitude,longitude
 66341.0,Eagle Springs Hybrid,33.433264,-95.57444
 66342.0,Gaia Hybrid,32.160767,-96.19527
 66342.0,Gaia Hybrid,32.160767,-96.19527
+66390.0,MRG Goody Solar Project Hybrid,33.639193,-95.62905
+66390.0,MRG Goody Solar Project Hybrid,33.639193,-95.62905
 66411.0,Hecate Grid East Valley Storage,25.94113,-97.53276
 66414.0,Hecate Energy Ramsey Storage,29.02939,-96.2362
 66426.0,Utah Solar 1,39.504761,-112.5077
@@ -27433,6 +27365,10 @@ plant_id,plant_name,latitude,longitude
 67651.0,Berkman Storage,29.50069,-95.08195
 67667.0,"Third Coast BESS, LLC",28.852327,-96.55642
 67735.0,"Sebree Solar, LLC - Hybrid",37.693,-87.549
+67761.0,Bypass BESS,29.484448,-95.62164
+67765.0,Compadre Solar,33.457356,-97.28961
+67823.0,Roadrunner Solar and BESS,32.086149,-109.9353
+67823.0,Roadrunner Solar and BESS,32.086149,-109.9353
 52061.0,Hartford Hospital Cogeneration,41.7631,-72.6733
 60588.0,Sweetheart Lake Hydroelectric Facility,57.9449,-133.6867
 60588.0,Sweetheart Lake Hydroelectric Facility,57.9449,-133.6867
@@ -27462,6 +27398,8 @@ plant_id,plant_name,latitude,longitude
 66918.0,Trumbull Energy Center,41.1476,-80.8525
 66918.0,Trumbull Energy Center,41.1476,-80.8525
 67654.0,Destiny Storage,29.887194,-95.02366
+67755.0,Little Trout Solar,45.334045,-83.75117
+67800.0,Walston I Solar,38.37,-75.505
 65138.0,Spencer Drive Solar One,43.323788,-70.59699
 65853.0,Middlebrook Creek Solar and BESS,31.5552,-94.7919
 65853.0,Middlebrook Creek Solar and BESS,31.5552,-94.7919
@@ -27472,6 +27410,7 @@ plant_id,plant_name,latitude,longitude
 66618.0,Fish Lake Geothermal,37.860925,-118.0341
 66618.0,Fish Lake Geothermal,37.860925,-118.0341
 67666.0,Sundance (CO),39.414779,-104.4481
+67756.0,Mission Road Solar Park,43.68358,-84.78521
 57881.0,Pioneer Generation Station,48.2325,-103.9528
 61331.0,NISA Electric Generation Project,40.7065,-73.9702
 61331.0,NISA Electric Generation Project,40.7065,-73.9702
@@ -27479,6 +27418,7 @@ plant_id,plant_name,latitude,longitude
 65900.0,"Springwater Solar, LLC",39.82972,-83.2498
 66384.0,"Ostrea Solar, LLC",46.52884,-119.9792
 66441.0,Crossvine Solar,38.264271,-87.00189
+66484.0,"Glen Canyon Solar A, LLC",37.091539,-111.7255
 66657.0,Steubenville Solar,40.351722,-80.67036
 66658.0,Nottingham Solar,40.351722,-80.67036
 66682.0,"KCE NY 10, LLC",42.907908,-78.66011
@@ -27487,6 +27427,7 @@ plant_id,plant_name,latitude,longitude
 67123.0,Fagus Solar Park,34.350994,-100.0493
 67677.0,Heartwood Solar,41.934092,-84.7343
 67723.0,Kingstree West 115,33.693976,-79.95404
+67759.0,Trenton Channel Energy Center,42.124423,-83.18571
 165.0,GREC,36.190278,-95.2894
 62273.0,Hecate Energy Columbia County Solar,42.175027,-73.59039
 65437.0,"Wolf Pit Branch Solar, LLC",33.741,-81.4
@@ -27505,6 +27446,10 @@ plant_id,plant_name,latitude,longitude
 66891.0,Indigo Solar & Storage,32.628061,-100.236
 67501.0,Green River Energy Center - Hybrid,38.9987,-111.1172
 67501.0,Green River Energy Center - Hybrid,38.9987,-111.1172
+67754.0,Fish Creek Solar Park,43.12165,-85.01172
+67776.0,Cuchillas PV and BESS,27.644178,-99.18445
+67785.0,Whistle Solar,31.985,-96.43658
+67788.0,Payne Battlecreek Solar,31.852503,-96.75536
 2185.0,Hauser,46.765941,-111.8873
 52061.0,Hartford Hospital Cogeneration,41.7631,-72.6733
 60309.0,"Portal Ridge Solar A, LLC",34.71533,-118.2591
@@ -27534,7 +27479,6 @@ plant_id,plant_name,latitude,longitude
 62309.0,Shining Sun Solar,33.5425,-80.57219
 62310.0,Shorthorn Solar,34.246975,-80.15782
 62313.0,Stamey Solar,34.381056,-80.13433
-63162.0,OAKBORO PV1,35.242193,-80.30575
 63802.0,Shady Hills Combined Cycle Facility,28.366667,-82.55833
 63815.0,Hecate Energy Gedney Hill,42.451733,-73.89284
 64167.0,Hornet Solar,35.387,-81.029
@@ -27553,6 +27497,8 @@ plant_id,plant_name,latitude,longitude
 65847.0,Eldora Energy LLC,28.865989,-96.12169
 65847.0,Eldora Energy LLC,28.865989,-96.12169
 65973.0,Garcitas Creek Solar,28.811368,-96.64801
+66216.0,Yaupon Solar Project (Hybrid),31.0444,-96.8514
+66216.0,Yaupon Solar Project (Hybrid),31.0444,-96.8514
 66396.0,Naduah Solar,31.521467,-96.67385
 66409.0,Hecate Grid Gwent Storage 1,34.28093,-118.903
 66621.0,Orange County Advanced Power Station,30.025251,-93.87134
@@ -27583,7 +27529,9 @@ plant_id,plant_name,latitude,longitude
 66401.0,OCI Hillsboro,31.941,-97.021
 66401.0,OCI Hillsboro,31.941,-97.021
 66421.0,Despain Solar,29.282259,-100.2098
+66754.0,EnerSmart El Cajon BESS,32.80417,-116.9255
 67662.0,Payton,41.264199,-89.87517
+67784.0,Vial BESS,31.953772,-97.06248
 64428.0,JVR Energy Park LLC,32.625903,-116.1749
 65366.0,Emery Meadow Solar Station,43.643433,-70.55837
 67257.0,Bear Valley Battery Plant,34.25,-116.86
@@ -27592,6 +27540,8 @@ plant_id,plant_name,latitude,longitude
 65975.0,Starr Solar Ranch,26.523359,-99.01711
 65981.0,Second Division Solar,29.170545,-95.74157
 66315.0,Clover Creek Solar,36.816641,-78.69262
+66551.0,EnerSmart Imperial Beach BESS,32.583468,-117.0968
+66551.0,EnerSmart Imperial Beach BESS,32.583468,-117.0968
 66678.0,Aramis I Solar Project,37.749678,-121.7661
 66678.0,Aramis I Solar Project,37.749678,-121.7661
 66705.0,Longwing Solar,30.845156,-94.49176
@@ -27599,12 +27549,17 @@ plant_id,plant_name,latitude,longitude
 67078.0,Quarter Ranch Solar,27.301064,-99.43041
 67555.0,Wetzel BESS,31.707049,-98.85746
 67657.0,Hanson,31.690367,-99.51389
+67775.0,Cardinal Solar (TX),31.173772,-98.65732
 62892.0,EDPR CA Solar Park VI LLC (CA) Hybrid,36.62543,-120.3789
 62892.0,EDPR CA Solar Park VI LLC (CA) Hybrid,36.62543,-120.3789
 64428.0,JVR Energy Park LLC,32.625903,-116.1749
 64834.0,"Roxbury Solar, LLC",44.679,-70.6145
 65369.0,Topsham Meadow Solar Station,43.975183,-70.0113
 65371.0,West Baldwin Solar Station,43.867403,-70.7866
+65844.0,Flag City Solar,28.992798,-96.3709
+65852.0,Lunis Creek Solar and BESS SLF,28.916089,-96.38422
+65852.0,Lunis Creek Solar and BESS SLF,28.916089,-96.38422
+65855.0,Tehuacana Creek 1 Solar and BESS,31.914062,-96.41347
 66744.0,Brenneman Solar Project,32.28,-83.99
 67262.0,Ripley Energy Center,36.116,-96.902
 67347.0,Osagrove Flats Wind,40.941383,-88.97152
@@ -27618,6 +27573,12 @@ plant_id,plant_name,latitude,longitude
 65944.0,"Discovery Wind, LLC",47.44756,-101.107
 66383.0,Hyco Solar LLC,36.484574,-79.13311
 66671.0,"Conez Solar, LLC",32.458353,-82.39457
+66755.0,EnerSmart Murray BESS,32.78998,-117.0228
+66755.0,EnerSmart Murray BESS,32.78998,-117.0228
+66755.0,EnerSmart Murray BESS,32.78998,-117.0228
+66755.0,EnerSmart Murray BESS,32.78998,-117.0228
+66755.0,EnerSmart Murray BESS,32.78998,-117.0228
+66755.0,EnerSmart Murray BESS,32.78998,-117.0228
 67222.0,Yellow Vikings,32.1839,-97.382
 67229.0,Trestles Grid LLC,33.74232,-117.1611
 67563.0,Ratcliff Solar Park,30.217058,-95.81602
@@ -27634,7 +27595,6 @@ plant_id,plant_name,latitude,longitude
 58941.0,Icebreaker Offshore Wind Farm,41.605833,-81.80583
 58941.0,Icebreaker Offshore Wind Farm,41.605833,-81.80583
 60070.0,Nolin Hills,45.55455,-119.1143
-62787.0,Pinckard Solar,31.297,-85.536
 62846.0,Water Valley Wind Energy,31.611223,-100.8133
 63202.0,TREX US Red Holly,32.952,-101.737
 63488.0,Obsidian Solar Center,43.312167,-120.8218
@@ -27657,6 +27617,7 @@ plant_id,plant_name,latitude,longitude
 65821.0,Honey Creek Solar,40.7971,-86.8572
 65821.0,Honey Creek Solar,40.7971,-86.8572
 65850.0,Elio Energy LLC,29.247678,-95.68546
+65855.0,Tehuacana Creek 1 Solar and BESS,31.914062,-96.41347
 65900.0,"Springwater Solar, LLC",39.82972,-83.2498
 65932.0,"Peeler Solar, LLC",28.70165,-98.4434
 65939.0,Grey Fox Wind,39.92537,-90.1544
@@ -27680,10 +27641,14 @@ plant_id,plant_name,latitude,longitude
 67658.0,Jerboa Storage,26.23116,-98.10893
 67659.0,Langer,31.89859,-97.46654
 67675.0,Northumberland Solar I,40.987206,-76.83401
+67776.0,Cuchillas PV and BESS,27.644178,-99.18445
 64550.0,Coastal Virginia Offshore Wind (CVOW) Commercial Project,36.907956,-75.34907
 65823.0,Parowan Solar,37.875795,-112.8885
 65823.0,Parowan Solar,37.875795,-112.8885
+67664.0,Soleil,33.799253,-98.04552
+67779.0,Hayrick BESS,32.022914,-100.2926
 59091.0,Braddock Lock and Dam,40.388889,-79.85889
+63567.0,Westminister NC,35.452,-81.919
 64171.0,Tygart Hydropower,39.279354,-80.00891
 64171.0,Tygart Hydropower,39.279354,-80.00891
 64171.0,Tygart Hydropower,39.279354,-80.00891
@@ -27726,10 +27691,16 @@ plant_id,plant_name,latitude,longitude
 66852.0,Hillsboro Solar 3,34.669883,-87.2332
 67231.0,"Hinds Solar, LLC",32.416186,-90.38886
 67559.0,Dunlay Solar,29.314674,-99.09725
+67768.0,Cumbia Energy Center,27.739083,-97.44955
+67777.0,Harryoung PV and BESS,26.276027,-97.63249
+67777.0,Harryoung PV and BESS,26.276027,-97.63249
+67838.0,"KCE NY 30, LLC",40.69477,-73.35182
+67839.0,"KCE NY 31, LLC",40.9581,-72.86654
 58652.0,La Paz Solar Tower,33.917222,-114.2675
 58930.0,FGE Texas II,32.309167,-101.0242
 58930.0,FGE Texas II,32.309167,-101.0242
 58930.0,FGE Texas II,32.309167,-101.0242
+64913.0,Sandy Creek Solar,43.812826,-76.06884
 65136.0,Royalston Solar One,42.668365,-72.18581
 65136.0,Royalston Solar One,42.668365,-72.18581
 65345.0,"Vacherie Solar Energy Center, LLC",29.978,-90.7277
@@ -27740,9 +27711,18 @@ plant_id,plant_name,latitude,longitude
 67221.0,Foothills Solar (NY),43.113678,-74.24503
 67676.0,Zeta Solar & Storage,36.911894,-120.8101
 67676.0,Zeta Solar & Storage,36.911894,-120.8101
+67767.0,Bramble Energy Center,28.955627,-99.72318
+67782.0,RedSun PV and BESS,30.784886,-98.20217
+67782.0,RedSun PV and BESS,30.784886,-98.20217
 59924.0,Aegle Power,26.216361,-97.62806
 59924.0,Aegle Power,26.216361,-97.62806
 59924.0,Aegle Power,26.216361,-97.62806
+61592.0,Cody Road Wind Farm,42.967145,-75.75592
+61592.0,Cody Road Wind Farm,42.967145,-75.75592
+61592.0,Cody Road Wind Farm,42.967145,-75.75592
+61592.0,Cody Road Wind Farm,42.967145,-75.75592
+61592.0,Cody Road Wind Farm,42.967145,-75.75592
+63202.0,TREX US Red Holly,32.952,-101.737
 64669.0,Notch Peak Solar LLC,39.520131,-112.6602
 65399.0,Mill Pond Hydro,42.252975,-73.89795
 66685.0,Whale Rock Pumped Storage Hydro Project,35.454196,-120.8671
@@ -27750,6 +27730,8 @@ plant_id,plant_name,latitude,longitude
 66685.0,Whale Rock Pumped Storage Hydro Project,35.454196,-120.8671
 67263.0,Turney Energy Center,39.615,-94.351
 67324.0,Somerset Solar LLC,43.352072,-78.61036
+67774.0,Pecan BESS,31.078667,-96.22328
+67798.0,Longhorn BESS,33.633102,-96.15789
 66692.0,"Holly Branch Solar, LLC",31.09456,-96.41413
 66692.0,"Holly Branch Solar, LLC",31.09456,-96.41413
 66545.0,Mammoth South Solar Project,41.095334,-86.69157
@@ -27783,6 +27765,9 @@ plant_id,plant_name,latitude,longitude
 65052.0,Homer Solar Energy Center,42.658652,-76.09993
 66363.0,"Black Walnut Solar, LLC",35.050032,-77.15218
 67226.0,Rock House Solar,33.4481,-82.4039
+58931.0,FGE Texas I,32.308611,-101.0261
+58931.0,FGE Texas I,32.308611,-101.0261
+58931.0,FGE Texas I,32.308611,-101.0261
 59027.0,Mahoney Lake Hydroelectric,55.419444,-131.5378
 60070.0,Nolin Hills,45.55455,-119.1143
 61170.0,Gale 1 Solar,39.523,-112.546
@@ -27834,11 +27819,15 @@ plant_id,plant_name,latitude,longitude
 67354.0,Waco Solar II,31.71062,-96.7914
 67358.0,Lake Whitney Solar,31.837644,-97.39844
 67652.0,Bhalu,32.31219,-101.3378
+67840.0,"KCE NY 35, LLC",42.260025,-73.85406
+67841.0,"KCE NY 36, LLC",43.088141,-75.3319
 54224.0,Franklin Heating Station,44.020576,-92.4656
 65899.0,"Rosebud Solar, LLC",31.07382,-97.0434
 66398.0,Eytcheson Solar,31.872617,-96.7
 66674.0,Cold Creek Solar,42.495,-78.082
 66674.0,Cold Creek Solar,42.495,-78.082
+67778.0,Findley PV and BESS,31.643389,-96.77961
+67778.0,Findley PV and BESS,31.643389,-96.77961
 62022.0,Lincoln Land Energy Center,39.5788,-89.57984
 66858.0,Spring Valley Solar 2,34.674983,-87.66373
 6761.0,Rawhide,40.860905,-105.0212
@@ -27871,6 +27860,7 @@ plant_id,plant_name,latitude,longitude
 62391.0,Overton Hydroelectric Project,31.185978,-92.29309
 62402.0,Arkabutla Lake Hydroelectric Project,34.757926,-90.12569
 65446.0,Owens Creek Solar,42.06,-88.81
+67787.0,Centaurus Solar - GA,31.3875,-84.05528
 62388.0,Grays Landing L&D Hydroelectric Project,39.823738,-79.92302
 62391.0,Overton Hydroelectric Project,31.185978,-92.29309
 62391.0,Overton Hydroelectric Project,31.185978,-92.29309
@@ -27932,21 +27922,30 @@ plant_id,plant_name,latitude,longitude
 64632.0,Sienna Solar Farm,34.493659,-116.915
 64632.0,Sienna Solar Farm,34.493659,-116.915
 64912.0,Mill Point Solar,42.919098,-74.34116
+65590.0,Octans,31.000575,-102.6799
 66343.0,Prairie Violet Wind LLC,41.037,-89.227
 67551.0,Vista Sands Solar,44.446256,-89.57631
+67819.0,Robinson Solar,39.298603,-115.2192
+67819.0,Robinson Solar,39.298603,-115.2192
 67325.0,Riverside Solar LLC,44.06585,-76.1222
+65703.0,Humidor Storage I,34.29116,-118.7518
 58987.0,Chokecherry and Sierra Madre Wind,41.683056,-107.2
 58987.0,Chokecherry and Sierra Madre Wind,41.683056,-107.2
 66701.0,Buffalo Branch Wind and Solar LLC,37.38332,-93.92999
 10319.0,Geismar,30.2,-91.0
 10319.0,Geismar,30.2,-91.0
 63193.0,Alira,32.347392,-102.9677
+66805.0,Lycan Solar Project,33.621326,-115.0959
 65938.0,Winding Stair Wind,42.13714,-92.3678
 58987.0,Chokecherry and Sierra Madre Wind,41.683056,-107.2
 58987.0,Chokecherry and Sierra Madre Wind,41.683056,-107.2
 57472.0,TBE-Montgomery LLC,41.4885,-74.2262
 57472.0,TBE-Montgomery LLC,41.4885,-74.2262
 ,,,
+54998.0,Wheelabrator Portsmouth,36.8083,-76.3036
+54998.0,Wheelabrator Portsmouth,36.8083,-76.3036
+54998.0,Wheelabrator Portsmouth,36.8083,-76.3036
+60441.0,Salem Smart Power Center,44.922,-123.0183
 789.0,Orca,60.555889,-145.753
 1400.0,Teche,29.822222,-91.5425
 1573.0,Morgantown Generating Plant,38.3592,-76.9767
@@ -28076,6 +28075,9 @@ plant_id,plant_name,latitude,longitude
 356.0,AES Redondo Beach LLC,33.8504,-118.395
 356.0,AES Redondo Beach LLC,33.8504,-118.395
 356.0,AES Redondo Beach LLC,33.8504,-118.395
+2248.0,Kimball,41.2382,-103.6667
+2248.0,Kimball,41.2382,-103.6667
+2248.0,Kimball,41.2382,-103.6667
 6090.0,Sherburne County,45.3808,-93.8931
 50722.0,INEOS Naperville Cogeneration Plant,41.8108,-88.1486
 50942.0,Lagoon Cogeneration Facility,40.9872,-111.8983
@@ -28125,7 +28127,117 @@ plant_id,plant_name,latitude,longitude
 56864.0,Covel Gardens Gas Recovery,29.3467,-98.6536
 56864.0,Covel Gardens Gas Recovery,29.3467,-98.6536
 56891.0,Moretown,44.312222,-72.71139
+56996.0,Solar Photovoltaic Project #02,33.985244,-117.7008
+56996.0,Solar Photovoltaic Project #02,33.985244,-117.7008
 57065.0,Kivalina,67.726644,-164.5384
+57217.0,Solar Photovoltaic Project #03,34.094279,-117.4001
+57217.0,Solar Photovoltaic Project #03,34.094279,-117.4001
+57219.0,Solar Photovoltaic Project #05,34.086276,-117.2306
+57219.0,Solar Photovoltaic Project #05,34.086276,-117.2306
+57219.0,Solar Photovoltaic Project #05,34.086276,-117.2306
+57219.0,Solar Photovoltaic Project #05,34.086276,-117.2306
+57219.0,Solar Photovoltaic Project #05,34.086276,-117.2306
+57220.0,Solar Photovoltaic Project #06,34.041389,-117.5731
+57220.0,Solar Photovoltaic Project #06,34.041389,-117.5731
+57220.0,Solar Photovoltaic Project #06,34.041389,-117.5731
+57220.0,Solar Photovoltaic Project #06,34.041389,-117.5731
+57221.0,Solar Photovoltaic Project #07,34.086111,-117.2275
+57221.0,Solar Photovoltaic Project #07,34.086111,-117.2275
+57221.0,Solar Photovoltaic Project #07,34.086111,-117.2275
+57221.0,Solar Photovoltaic Project #07,34.086111,-117.2275
+57221.0,Solar Photovoltaic Project #07,34.086111,-117.2275
+57222.0,Solar Photovoltaic Project #08,34.041944,-117.565
+57222.0,Solar Photovoltaic Project #08,34.041944,-117.565
+57222.0,Solar Photovoltaic Project #08,34.041944,-117.565
+57222.0,Solar Photovoltaic Project #08,34.041944,-117.565
+57223.0,Solar Photovoltaic Project #09,34.042778,-117.5717
+57223.0,Solar Photovoltaic Project #09,34.042778,-117.5717
+57224.0,Solar Photovoltaic Project #10,34.075,-117.5169
+57224.0,Solar Photovoltaic Project #10,34.075,-117.5169
+57224.0,Solar Photovoltaic Project #10,34.075,-117.5169
+57225.0,Solar Photovoltaic Project #11,34.075833,-117.2414
+57225.0,Solar Photovoltaic Project #11,34.075833,-117.2414
+57225.0,Solar Photovoltaic Project #11,34.075833,-117.2414
+57225.0,Solar Photovoltaic Project #11,34.075833,-117.2414
+57225.0,Solar Photovoltaic Project #11,34.075833,-117.2414
+57225.0,Solar Photovoltaic Project #11,34.075833,-117.2414
+57225.0,Solar Photovoltaic Project #11,34.075833,-117.2414
+57226.0,Solar Photovoltaic Project #12,34.042222,-117.5617
+57227.0,Solar Photovoltaic Project #13,34.083499,-117.2356
+57227.0,Solar Photovoltaic Project #13,34.083499,-117.2356
+57227.0,Solar Photovoltaic Project #13,34.083499,-117.2356
+57227.0,Solar Photovoltaic Project #13,34.083499,-117.2356
+57227.0,Solar Photovoltaic Project #13,34.083499,-117.2356
+57227.0,Solar Photovoltaic Project #13,34.083499,-117.2356
+57227.0,Solar Photovoltaic Project #13,34.083499,-117.2356
+57229.0,Solar Photovoltaic Project #15,34.079167,-117.5167
+57229.0,Solar Photovoltaic Project #15,34.079167,-117.5167
+57229.0,Solar Photovoltaic Project #15,34.079167,-117.5167
+57229.0,Solar Photovoltaic Project #15,34.079167,-117.5167
+57229.0,Solar Photovoltaic Project #15,34.079167,-117.5167
+57229.0,Solar Photovoltaic Project #15,34.079167,-117.5167
+57229.0,Solar Photovoltaic Project #15,34.079167,-117.5167
+57230.0,Solar Photovoltaic Project #16,34.085556,-117.2336
+57230.0,Solar Photovoltaic Project #16,34.085556,-117.2336
+57230.0,Solar Photovoltaic Project #16,34.085556,-117.2336
+57231.0,Solar Photovoltaic Project #17,34.072778,-117.5033
+57231.0,Solar Photovoltaic Project #17,34.072778,-117.5033
+57231.0,Solar Photovoltaic Project #17,34.072778,-117.5033
+57231.0,Solar Photovoltaic Project #17,34.072778,-117.5033
+57231.0,Solar Photovoltaic Project #17,34.072778,-117.5033
+57231.0,Solar Photovoltaic Project #17,34.072778,-117.5033
+57231.0,Solar Photovoltaic Project #17,34.072778,-117.5033
+57232.0,Solar Photovoltaic Project #18,34.083333,-117.5164
+57232.0,Solar Photovoltaic Project #18,34.083333,-117.5164
+57232.0,Solar Photovoltaic Project #18,34.083333,-117.5164
+57236.0,Solar Photovoltaic Project #23,34.080833,-117.5203
+57236.0,Solar Photovoltaic Project #23,34.080833,-117.5203
+57236.0,Solar Photovoltaic Project #23,34.080833,-117.5203
+57236.0,Solar Photovoltaic Project #23,34.080833,-117.5203
+57236.0,Solar Photovoltaic Project #23,34.080833,-117.5203
+57237.0,Solar Photovoltaic Project #22,34.08,-117.2114
+57237.0,Solar Photovoltaic Project #22,34.08,-117.2114
+57237.0,Solar Photovoltaic Project #22,34.08,-117.2114
+57237.0,Solar Photovoltaic Project #22,34.08,-117.2114
+57245.0,Solar Photovoltaic Project #26,34.131214,-117.4253
+57245.0,Solar Photovoltaic Project #26,34.131214,-117.4253
+57245.0,Solar Photovoltaic Project #26,34.131214,-117.4253
+57245.0,Solar Photovoltaic Project #26,34.131214,-117.4253
+57245.0,Solar Photovoltaic Project #26,34.131214,-117.4253
+57245.0,Solar Photovoltaic Project #26,34.131214,-117.4253
+57245.0,Solar Photovoltaic Project #26,34.131214,-117.4253
+57245.0,Solar Photovoltaic Project #26,34.131214,-117.4253
+57245.0,Solar Photovoltaic Project #26,34.131214,-117.4253
+57245.0,Solar Photovoltaic Project #26,34.131214,-117.4253
+57245.0,Solar Photovoltaic Project #26,34.131214,-117.4253
+57245.0,Solar Photovoltaic Project #26,34.131214,-117.4253
+57246.0,Solar Photovoltaic Project #27,34.131111,-117.4217
+57246.0,Solar Photovoltaic Project #27,34.131111,-117.4217
+57246.0,Solar Photovoltaic Project #27,34.131111,-117.4217
+57246.0,Solar Photovoltaic Project #27,34.131111,-117.4217
+57247.0,Solar Photovoltaic Project #28,34.094167,-117.2742
+57247.0,Solar Photovoltaic Project #28,34.094167,-117.2742
+57247.0,Solar Photovoltaic Project #28,34.094167,-117.2742
+57247.0,Solar Photovoltaic Project #28,34.094167,-117.2742
+57247.0,Solar Photovoltaic Project #28,34.094167,-117.2742
+57247.0,Solar Photovoltaic Project #28,34.094167,-117.2742
+57247.0,Solar Photovoltaic Project #28,34.094167,-117.2742
+57534.0,Solar Photovoltaic Project #32,34.031667,-117.5719
+57534.0,Solar Photovoltaic Project #32,34.031667,-117.5719
+57534.0,Solar Photovoltaic Project #32,34.031667,-117.5719
+57535.0,Solar Photovoltaic Project #33,34.0325,-117.5692
+57535.0,Solar Photovoltaic Project #33,34.0325,-117.5692
+57544.0,Cal State Univ San Bernardino FC01,34.185833,-117.3242
+57900.0,Solar Photovoltaic Project #48,34.081111,-117.2281
+57900.0,Solar Photovoltaic Project #48,34.081111,-117.2281
+57900.0,Solar Photovoltaic Project #48,34.081111,-117.2281
+57900.0,Solar Photovoltaic Project #48,34.081111,-117.2281
+57900.0,Solar Photovoltaic Project #48,34.081111,-117.2281
+57900.0,Solar Photovoltaic Project #48,34.081111,-117.2281
+57900.0,Solar Photovoltaic Project #48,34.081111,-117.2281
+57900.0,Solar Photovoltaic Project #48,34.081111,-117.2281
+57900.0,Solar Photovoltaic Project #48,34.081111,-117.2281
+57900.0,Solar Photovoltaic Project #48,34.081111,-117.2281
 60245.0,New Stuyahok,59.448358,-157.3255
 61647.0,ENO Paterson Solar,30.011409,-90.02397
 61679.0,Cox Battery Energy Storage,37.135022,-93.32436
@@ -28169,6 +28281,7 @@ plant_id,plant_name,latitude,longitude
 50466.0,Buckeye Florida LP,30.0688,-83.5253
 50466.0,Buckeye Florida LP,30.0688,-83.5253
 58170.0,Crafton Hills College Solar Farm,34.043056,-117.0989
+58365.0,CJTS Energy Center,41.552778,-72.625
 58440.0,CBS Studio Center,34.145,-118.3908
 58440.0,CBS Studio Center,34.145,-118.3908
 58440.0,CBS Studio Center,34.145,-118.3908
@@ -28191,6 +28304,7 @@ plant_id,plant_name,latitude,longitude
 563.0,South Meadow,41.7495,-72.6524
 563.0,South Meadow,41.7495,-72.6524
 563.0,South Meadow,41.7495,-72.6524
+789.0,Orca,60.555889,-145.753
 874.0,Joliet 9,41.4931,-88.1153
 994.0,AES Petersburg,38.5281,-87.2525
 1047.0,Lansing,43.3359,-91.1675
@@ -28361,6 +28475,7 @@ plant_id,plant_name,latitude,longitude
 2104.0,Meramec,38.4017,-90.3358
 3485.0,Plant X,34.1661,-102.4114
 7111.0,Heber City,40.50368,-111.4252
+7112.0,Centennial,55.121433,-131.5603
 50570.0,Chestnut Ridge Gas Recovery,36.1172,-84.0317
 50570.0,Chestnut Ridge Gas Recovery,36.1172,-84.0317
 50570.0,Chestnut Ridge Gas Recovery,36.1172,-84.0317
@@ -28432,7 +28547,6 @@ plant_id,plant_name,latitude,longitude
 54111.0,Second Imperial Geothermal,32.7144,-115.5356
 54111.0,Second Imperial Geothermal,32.7144,-115.5356
 56615.0,Rancho Penasquitos,32.93695,-117.1137
-57025.0,Waste Management Eco Vista LFGTE,36.140849,-94.25971
 57025.0,Waste Management Eco Vista LFGTE,36.140849,-94.25971
 57025.0,Waste Management Eco Vista LFGTE,36.140849,-94.25971
 57025.0,Waste Management Eco Vista LFGTE,36.140849,-94.25971
@@ -28606,6 +28720,8 @@ plant_id,plant_name,latitude,longitude
 1266.0,Burlington (KS),38.193441,-95.74995
 1329.0,Washington,39.7306,-96.9795
 1329.0,Washington,39.7306,-96.9795
+2018.0,Virginia,47.522428,-92.54095
+2018.0,Virginia,47.522428,-92.54095
 2790.0,R M Heskett,46.8669,-100.8836
 6257.0,Scherer,33.0606,-83.8075
 7174.0,Gwitchyaa Zhee,66.566287,-145.2531
@@ -28655,7 +28771,6 @@ plant_id,plant_name,latitude,longitude
 10883.0,Medical Area Total Energy Plant,42.33685,-71.10815
 50231.0,SDS Lumber Gorge Energy Division,45.713079,-121.4692
 50231.0,SDS Lumber Gorge Energy Division,45.713079,-121.4692
-55719.0,Mountain View I & II,33.9211,-116.5642
 55719.0,Mountain View I & II,33.9211,-116.5642
 55719.0,Mountain View I & II,33.9211,-116.5642
 55980.0,Champepaden Wind Power,43.899722,-95.95056
@@ -29671,7 +29786,6 @@ plant_id,plant_name,latitude,longitude
 2388.0,Oyster Creek,39.8143,-74.2062
 4050.0,Edgewater,43.715142,-87.70586
 6516.0,Rocky Ford,38.0492,-103.7136
-7112.0,Centennial,55.121433,-131.5603
 50158.0,Edenville,43.814,-84.3767
 50158.0,Edenville,43.814,-84.3767
 50491.0,Axiall Natrium Plant,39.7475,-80.8547
@@ -32637,7 +32751,6 @@ plant_id,plant_name,latitude,longitude
 54702.0,Chaney Dell Plant,36.431389,-98.24444
 54944.0,Albany Paper Mill,44.671667,-122.9386
 54944.0,Albany Paper Mill,44.671667,-122.9386
-55339.0,Phoenix Wind Power LLC,33.916667,-116.55
 56881.0,Oak Ridge North Power,30.153889,-95.44139
 56881.0,Oak Ridge North Power,30.153889,-95.44139
 56881.0,Oak Ridge North Power,30.153889,-95.44139
@@ -35819,6 +35932,7 @@ plant_id,plant_name,latitude,longitude
 62685.0,Sealy Power Peaking Facility,29.8461,-96.1973
 62685.0,Sealy Power Peaking Facility,29.8461,-96.1973
 62685.0,Sealy Power Peaking Facility,29.8461,-96.1973
+62787.0,Pinckard Solar,31.297,-85.536
 62802.0,Grizzly Wind LLC,45.814,-109.317
 62803.0,Buenos Aires Phase 1,26.64948,-98.12384
 62808.0,Black Bear Wind (MT),45.806,-109.24
@@ -35839,6 +35953,7 @@ plant_id,plant_name,latitude,longitude
 63067.0,Utica Renewable Energy Center Hybrid,39.743569,-93.65714
 63095.0,John Paul Jones,30.09144,-95.60638
 63134.0,Cabin Point Solar Center,37.072524,-77.17897
+63162.0,OAKBORO PV1,35.242193,-80.30575
 63196.0,AC Power 2,39.446413,-74.6097
 63197.0,Pettinos Solar,39.761541,-74.93104
 63201.0,TREX US Green Holly,32.924,-101.717
@@ -35861,7 +35976,6 @@ plant_id,plant_name,latitude,longitude
 63282.0,Georgia College & State University Solar,33.079224,-83.26598
 63310.0,"Snowdrop Solar, LLC",45.637874,-95.34439
 63316.0,"Gladiolus Solar, LLC",44.722472,-93.02474
-63508.0,Camino Solar Hybrid,34.93031,-118.4432
 63508.0,Camino Solar Hybrid,34.93031,-118.4432
 63529.0,Renz Energy Storage,37.008261,-121.558
 63545.0,Chevron - Lost Hills Hybrid,35.62,-119.69
@@ -35943,6 +36057,10 @@ plant_id,plant_name,latitude,longitude
 64941.0,WAL4279,32.485858,-97.00617
 64941.0,WAL4279,32.485858,-97.00617
 65017.0,Mazeppa CSG,44.278016,-92.53088
+65019.0,Beaver Creek Wind Facility,45.956,-109.497
+65019.0,Beaver Creek Wind Facility,45.956,-109.497
+65019.0,Beaver Creek Wind Facility,45.956,-109.497
+65019.0,Beaver Creek Wind Facility,45.956,-109.497
 65061.0,Meriden Solar One,41.514411,-72.81099
 65062.0,Middletown Solar One,41.50548,-72.61396
 65063.0,Middletown Solar Two,41.508014,-72.61456
@@ -35957,6 +36075,7 @@ plant_id,plant_name,latitude,longitude
 65150.0,Ellington Solar One,41.88958,-72.51155
 65179.0,Ironwood State Prison,33.567384,-114.9284
 65180.0,Chuckawalla State Prison,33.567212,-114.9238
+65181.0,CSP Solano,38.317858,-121.9767
 65226.0,Madison Solar 1 LLC,38.82106,-77.00993
 65356.0,Klees Mill CSG,39.437285,-76.99937
 65377.0,Iron Point Solar (Hybrid),40.887886,-117.1305
@@ -35978,7 +36097,6 @@ plant_id,plant_name,latitude,longitude
 65893.0,OCI SunRoper,29.240399,-96.01154
 65895.0,Chill Sun Solar Project,37.137499,-116.8533
 65928.0,Nacero Penwell Solar Energy Center,34.766058,-102.5978
-65967.0,Paris Solar,42.662069,-88.01553
 66054.0,Birch Solar,40.67786,-84.18292
 66060.0,Cottontail Solar 7,41.038723,-76.41102
 66130.0,Cottontail Solar 9,40.98985,-76.49423
@@ -35988,6 +36106,7 @@ plant_id,plant_name,latitude,longitude
 66139.0,Snowdrop Solar,41.852228,-80.11033
 66362.0,"Bear Point Solar, LLC",35.263748,-77.79904
 66386.0,Albion A,43.22669,-78.28802
+66399.0,OCI Lone Sun,31.54,-97.409
 66498.0,Staten Island Energy Storage 1 LLC,40.609826,-74.09003
 66517.0,TX Houston 7080 Express Lane,29.825138,-95.24706
 66518.0,TX LaPort 10060 Porter Road Solar,29.695953,-95.07516
