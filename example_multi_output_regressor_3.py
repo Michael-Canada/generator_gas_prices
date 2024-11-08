@@ -10,7 +10,8 @@ import matplotlib.pyplot as plt
 from sklearn.linear_model import Lasso
 
 # generator_consumption_and_price_df_summary[generator_consumption_and_price_df_summary['plant_name'].str.contains('Sabine')]
-# Load data
+
+# Load data that was saved earlier:
 hub_gas_prices_pivot = pd.read_pickle("hub_gas_prices_pivot.pkl")
 
 
@@ -29,6 +30,7 @@ hub_gas_prices_pivot = pd.DataFrame(
     index=hub_gas_prices_pivot.index,
 )
 
+# Load data that was saved earlier
 generator_consumption_and_price_df_summary = pd.read_csv(
     "generator_consumption_and_price_df_summary.csv"
 )
@@ -81,6 +83,7 @@ def find_quantities_per_plant_id(plant_id):
     return ans
 
 
+# This data was loaded also in the file "run6.py"
 NG_hub_loc_info = pd.read_parquet(
     "/Users/michael.simantov/Documents/generator_gas_prices/ng_hub_definition_parquet.parquet"
 )
@@ -339,7 +342,7 @@ intercepts = pd.DataFrame.from_dict(intercepts, orient="index", columns=["Value"
 # coefficients_NG_hub_name.to_pickle("coefficients_NG_hub_name_OLD.pkl")
 # intercepts.to_pickle("intercepts_OLD.pkl")
 
-
+# the data that is saved in the following csv files must be available in other workspaces:
 combined_df.to_csv("combined_df.csv")
 predicted_current_gas_prices.to_pickle("predicted_current_gas_prices.pkl")
 generator_locations.to_pickle("generator_locations.pkl")
